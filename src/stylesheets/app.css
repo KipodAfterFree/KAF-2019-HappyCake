@@ -3,3 +3,47 @@ body {
     max-width: 460px;
 }
 
+body > div {
+    height: 90vh !important;
+    min-height: 90vh !important;
+    justify-content: start !important;
+    overflow-y: scroll;
+}
+
+[title] {
+    font-size: 5vh;
+}
+
+[subtitle] {
+    font-size: 4vh;
+}
+
+[content] {
+    font-size: 3vh;
+}
+
+[tag] {
+    color: #9999aa;
+    font-weight: bold;
+    border-radius: 2vh;
+    text-indent: 1vh;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+[birthday] {
+    background-color: white;
+    border-radius: 2vh;
+    padding: 2vh;
+    margin: 2vh;
+}
+
+[info] {
+    background-color: lightcoral;
+    border-radius: 2vh;
+}
+
+[info] > * {
+    width: 100%;
+}
