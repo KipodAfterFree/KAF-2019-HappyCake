@@ -1,0 +1,22 @@
+{
+  "name": "Happy Cake!",
+  "short_name": "Happy Cake!",
+  "description": "Have fun baking?",
+  "start_url": "../index.html",
+  "background_color": "#dae4ed",
+  "theme_color": "#dae4ed",
+  "display": "standalone",
+  "orientation": "natural",
+  "icons": [
+    {
+      "src": "../images/icons/app/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../images/icons/app/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
