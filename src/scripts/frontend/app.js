@@ -4,7 +4,7 @@ function load() {
         if (elements[e].innerText.startsWith("@")) {
             elements[e].setAttribute("tag", "");
             elements[e].setAttribute("content", "");
-            elements[e].setAttribute("href", "scripts/page?n=" + elements[e].innerText.substring(1));
+            elements[e].setAttribute("href", "scripts/page/?n=" + elements[e].innerText.substring(1));
         }
     }
 }

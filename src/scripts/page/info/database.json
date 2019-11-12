@@ -1,1 +1,7469 @@
-{}
+{
+  "A": {
+    "m": {
+      "i": {
+        "t": {
+          "@": "Web developer, Web security researcher, member of KAF"
+        },
+        "r": {
+          "@": "SQL dev, Snekk \"developer\", AWS coordinator, SQL dev, Java \/ Java EE developer"
+        }
+      },
+      "a": {
+        "r": {
+          "i": {
+            "@": "Scratch developer, Snekk \"developer\", Discord bot developer"
+          }
+        }
+      },
+      "o": {
+        "s": {
+          "@": "Snekk \"developer\", Scratch developer, Java \/ Java EE developer, Scratch developer"
+        }
+      },
+      "e": {
+        "e": {
+          "r": {
+            "@": "SQL dev, C# \/ Xamarin developer"
+          }
+        }
+      }
+    },
+    "l": {
+      "e": {
+        "x": {
+          "a": {
+            "n": {
+              "d": {
+                "e": {
+                  "r": {
+                    "@": "Snekk \"developer\""
+                  }
+                }
+              }
+            }
+          },
+          "@": "8086 Assembler dev, Snekk \"developer\"",
+          "i": {
+            "s": {
+              "@": "Full low level stack, Full low level stack, Full low level stack"
+            }
+          },
+          "z": {
+            "a": {
+              "n": {
+                "d": {
+                  "e": {
+                    "r": {
+                      "@": "8086 Assembler dev, 8086 Assembler dev, Snekk \"developer\", AWS coordinator"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "j": {
+          "a": {
+            "n": {
+              "d": {
+                "r": {
+                  "o": {
+                    "@": "C# \/ Xamarin developer"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "c": {
+          "@": "Discord bot developer, AWS coordinator"
+        },
+        "s": {
+          "s": {
+            "a": {
+              "n": {
+                "d": {
+                  "r": {
+                    "o": {
+                      "@": "Android developer, Android developer, Java \/ Java EE developer, C# \/ Xamarin developer"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "@": "C# \/ Xamarin developer, Snekk \"developer\", Full web stack"
+        },
+        "r": {
+          "i": {
+            "c": {
+              "@": "C# \/ Xamarin developer, Discord bot developer, Swift developer, Discord bot developer"
+            }
+          }
+        }
+      },
+      "i": {
+        "@": "Android developer, Scratch developer",
+        "j": {
+          "a": {
+            "h": {
+              "@": "Full web stack, Java \/ Java EE developer, 8086 Assembler dev"
+            }
+          }
+        },
+        "s": {
+          "t": {
+            "a": {
+              "i": {
+                "r": {
+                  "@": "SQL dev, Swift developer, Android developer, Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      },
+      "l": {
+        "e": {
+          "n": {
+            "@": "Full low level stack, Swift developer"
+          }
+        },
+        "a": {
+          "n": {
+            "@": "Swift developer, C# \/ Xamarin developer"
+          }
+        }
+      },
+      "b": {
+        "e": {
+          "r": {
+            "t": {
+              "@": "8086 Assembler dev",
+              "o": {
+                "@": "8086 Assembler dev"
+              }
+            }
+          }
+        }
+      },
+      "o": {
+        "n": {
+          "z": {
+            "o": {
+              "@": "Full low level stack, 8086 Assembler dev, Full low level stack"
+            }
+          },
+          "s": {
+            "o": {
+              "@": "AWS coordinator, Full web stack"
+            }
+          }
+        }
+      },
+      "f": {
+        "r": {
+          "e": {
+            "d": {
+              "o": {
+                "@": "Full web stack"
+              },
+              "@": "8086 Assembler dev, Scratch developer, Full web stack, SQL dev"
+            }
+          }
+        },
+        "o": {
+          "n": {
+            "s": {
+              "o": {
+                "@": "C# \/ Xamarin developer"
+              }
+            }
+          }
+        }
+      },
+      "v": {
+        "i": {
+          "n": {
+            "@": "Java \/ Java EE developer, Android developer"
+          }
+        },
+        "a": {
+          "r": {
+            "o": {
+              "@": "AWS coordinator"
+            }
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "n": {
+            "@": "Scratch developer, C# \/ Xamarin developer"
+          }
+        },
+        "o": {
+          "@": "Swift developer"
+        }
+      }
+    },
+    "i": {
+      "d": {
+        "e": {
+          "n": {
+            "@": "Discord bot developer, Brainf*ck developer"
+          }
+        },
+        "a": {
+          "n": {
+            "@": "C# \/ Xamarin developer, Java \/ Java EE developer"
+          }
+        }
+      }
+    },
+    "n": {
+      "t": {
+        "h": {
+          "o": {
+            "n": {
+              "y": {
+                "@": "C# \/ Xamarin developer"
+              }
+            }
+          }
+        },
+        "o": {
+          "n": {
+            "i": {
+              "o": {
+                "@": "Snekk \"developer\", C# \/ Xamarin developer"
+              }
+            },
+            "@": "Swift developer"
+          }
+        }
+      },
+      "d": {
+        "r": {
+          "e": {
+            "w": {
+              "@": "Brainf*ck developer"
+            },
+            "s": {
+              "@": "Brainf*ck developer, 8086 Assembler dev, Android developer, Full web stack"
+            },
+            "@": "Discord bot developer, Snekk \"developer\""
+          }
+        },
+        "e": {
+          "r": {
+            "s": {
+              "o": {
+                "n": {
+                  "@": "Scratch developer, Full web stack, Snekk \"developer\", Android developer, Java \/ Java EE developer"
+                }
+              },
+              "@": "Android developer, SQL dev, Full web stack"
+            }
+          }
+        },
+        "y": {
+          "@": "Discord bot developer"
+        }
+      },
+      "g": {
+        "e": {
+          "l": {
+            "@": "Android developer, SQL dev",
+            "o": {
+              "@": "Brainf*ck developer, Full low level stack"
+            }
+          }
+        }
+      },
+      "a": {
+        "k": {
+          "i": {
+            "n": {
+              "@": "Swift developer, Swift developer, Full web stack, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "s": {
+        "o": {
+          "n": {
+            "@": "SQL dev, Android developer, Full low level stack"
+          }
+        }
+      }
+    },
+    "a": {
+      "r": {
+        "o": {
+          "n": {
+            "@": "8086 Assembler dev, Snekk \"developer\""
+          }
+        },
+        "a": {
+          "v": {
+            "@": "8086 Assembler dev, AWS coordinator, 8086 Assembler dev"
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "n": {
+            "@": "Swift developer, Discord bot developer, Full low level stack, Snekk \"developer\""
+          }
+        }
+      }
+    },
+    "d": {
+      "r": {
+        "i": {
+          "a": {
+            "n": {
+              "@": "Scratch developer, AWS coordinator, C# \/ Xamarin developer"
+            }
+          },
+          "e": {
+            "l": {
+              "@": "Snekk \"developer\", C# \/ Xamarin developer, 8086 Assembler dev, Discord bot developer"
+            },
+            "n": {
+              "@": "Brainf*ck developer, Discord bot developer, SQL dev, Discord bot developer, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "a": {
+        "m": {
+          "@": "C# \/ Xamarin developer, Scratch developer"
+        },
+        "n": {
+          "@": "AWS coordinator, Brainf*ck developer"
+        }
+      },
+      "o": {
+        "n": {
+          "i": {
+            "s": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "e": {
+        "n": {
+          "@": "Scratch developer, C# \/ Xamarin developer, Full low level stack"
+        }
+      }
+    },
+    "s": {
+      "h": {
+        "e": {
+          "r": {
+            "@": "Brainf*ck developer, Full low level stack"
+          }
+        },
+        "t": {
+          "o": {
+            "n": {
+              "@": "AWS coordinator, AWS coordinator, Full low level stack"
+            }
+          }
+        }
+      },
+      "a": {
+        "@": "Android developer"
+      }
+    },
+    "u": {
+      "s": {
+        "t": {
+          "i": {
+            "n": {
+              "@": "AWS coordinator"
+            }
+          }
+        }
+      },
+      "g": {
+        "u": {
+          "s": {
+            "t": {
+              "@": "Full web stack, Brainf*ck developer, Discord bot developer",
+              "u": {
+                "s": {
+                  "@": "8086 Assembler dev, Full low level stack"
+                }
+              },
+              "i": {
+                "n": {
+                  "e": {
+                    "@": "Scratch developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "d": {
+        "e": {
+          "n": {
+            "@": "Snekk \"developer\""
+          }
+        },
+        "i": {
+          "n": {
+            "@": "Brainf*ck developer, Swift developer"
+          }
+        }
+      },
+      "a": {
+        "a": {
+          "n": {
+            "@": "Scratch developer"
+          }
+        },
+        "n": {
+          "@": "Full web stack, AWS coordinator, Discord bot developer"
+        }
+      }
+    },
+    "x": {
+      "e": {
+        "l": {
+          "@": "SQL dev, Discord bot developer, Java \/ Java EE developer"
+        }
+      },
+      "t": {
+        "o": {
+          "n": {
+            "@": "Brainf*ck developer, 8086 Assembler dev, Full low level stack, Android developer"
+          }
+        }
+      },
+      "l": {
+        "@": "8086 Assembler dev, Android developer"
+      }
+    },
+    "b": {
+      "e": {
+        "l": {
+          "@": "C# \/ Xamarin developer, Discord bot developer, SQL dev, Discord bot developer"
+        }
+      },
+      "r": {
+        "a": {
+          "h": {
+            "a": {
+              "m": {
+                "@": "Swift developer, Brainf*ck developer, C# \/ Xamarin developer"
+              }
+            }
+          },
+          "m": {
+            "@": "Java \/ Java EE developer"
+          }
+        }
+      },
+      "d": {
+        "i": {
+          "e": {
+            "l": {
+              "@": "Full low level stack"
+            }
+          }
+        },
+        "u": {
+          "l": {
+            "l": {
+              "a": {
+                "h": {
+                  "@": "AWS coordinator, 8086 Assembler dev, Brainf*ck developer"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "v": {
+      "e": {
+        "r": {
+          "y": {
+            "@": "Android developer, Java \/ Java EE developer"
+          }
+        }
+      },
+      "i": {
+        "@": "Android developer, Full low level stack, C# \/ Xamarin developer, SQL dev"
+      }
+    },
+    "r": {
+      "t": {
+        "h": {
+          "u": {
+            "r": {
+              "@": "Swift developer, Android developer"
+            }
+          }
+        },
+        "u": {
+          "r": {
+            "o": {
+              "@": "Java \/ Java EE developer, Snekk \"developer\", Java \/ Java EE developer, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "c": {
+        "h": {
+          "e": {
+            "r": {
+              "@": "AWS coordinator, Android developer, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "l": {
+        "o": {
+          "@": "C# \/ Xamarin developer, Java \/ Java EE developer, 8086 Assembler dev, Brainf*ck developer"
+        }
+      },
+      "i": {
+        "@": "Swift developer, Discord bot developer, Brainf*ck developer, AWS coordinator",
+        "e": {
+          "l": {
+            "@": "Swift developer, Scratch developer"
+          }
+        },
+        "a": {
+          "n": {
+            "@": "Brainf*ck developer, SQL dev, Scratch developer"
+          }
+        }
+      },
+      "m": {
+        "a": {
+          "n": {
+            "d": {
+              "o": {
+                "@": "Full web stack"
+              }
+            },
+            "i": {
+              "@": "C# \/ Xamarin developer, Brainf*ck developer, 8086 Assembler dev"
+            }
+          }
+        }
+      },
+      "j": {
+        "u": {
+          "n": {
+            "@": "Scratch developer"
+          }
+        }
+      },
+      "e": {
+        "s": {
+          "@": "Scratch developer, Brainf*ck developer, SQL dev, Android developer"
+        }
+      },
+      "y": {
+        "a": {
+          "n": {
+            "@": "C# \/ Xamarin developer, Discord bot developer, Android developer"
+          }
+        }
+      },
+      "o": {
+        "n": {
+          "@": "8086 Assembler dev, Swift developer, Snekk \"developer\", Full low level stack, Snekk \"developer\""
+        }
+      }
+    },
+    "c": {
+      "e": {
+        "@": "Android developer, Snekk \"developer\", Brainf*ck developer"
+      },
+      "h": {
+        "i": {
+          "l": {
+            "l": {
+              "e": {
+                "s": {
+                  "@": "Scratch developer, SQL dev"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "t": {
+      "l": {
+        "a": {
+          "s": {
+            "@": "Java \/ Java EE developer"
+          }
+        }
+      },
+      "t": {
+        "i": {
+          "c": {
+            "u": {
+              "s": {
+                "@": "SQL dev, 8086 Assembler dev, 8086 Assembler dev"
+              }
+            }
+          }
+        }
+      }
+    },
+    "h": {
+      "m": {
+        "e": {
+          "d": {
+            "@": "Full low level stack, 8086 Assembler dev"
+          }
+        },
+        "a": {
+          "d": {
+            "@": "Java \/ Java EE developer, Scratch developer"
+          }
+        }
+      }
+    },
+    "p": {
+      "o": {
+        "l": {
+          "l": {
+            "o": {
+              "@": "AWS coordinator, Brainf*ck developer"
+            }
+          }
+        }
+      }
+    },
+    "z": {
+      "a": {
+        "r": {
+          "i": {
+            "a": {
+              "h": {
+                "@": "Android developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "g": {
+      "u": {
+        "s": {
+          "t": {
+            "i": {
+              "n": {
+                "@": "Brainf*ck developer, Full low level stack, Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Y": {
+    "a": {
+      "r": {
+        "i": {
+          "n": {
+            "@": "Crypto expert, Web developer, member of KAF"
+          }
+        }
+      },
+      "h": {
+        "i": {
+          "r": {
+            "@": "C# \/ Xamarin developer, Brainf*ck developer"
+          }
+        },
+        "y": {
+          "a": {
+            "@": "SQL dev, Java \/ Java EE developer, Full low level stack, Discord bot developer"
+          }
+        }
+      },
+      "d": {
+        "i": {
+          "e": {
+            "l": {
+              "@": "Java \/ Java EE developer, Swift developer"
+            }
+          }
+        }
+      }
+    },
+    "u": {
+      "s": {
+        "u": {
+          "f": {
+            "@": "8086 Assembler dev, SQL dev, Full web stack"
+          }
+        }
+      }
+    },
+    "o": {
+      "s": {
+        "e": {
+          "f": {
+            "@": "AWS coordinator, 8086 Assembler dev, SQL dev"
+          }
+        }
+      },
+      "u": {
+        "s": {
+          "e": {
+            "f": {
+              "@": "Full web stack"
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "h": {
+        "u": {
+          "d": {
+            "a": {
+              "@": "Full web stack, AWS coordinator, Java \/ Java EE developer, AWS coordinator"
+            }
+          }
+        }
+      }
+    },
+    "i": {
+      "s": {
+        "r": {
+          "o": {
+            "e": {
+              "l": {
+                "@": "Scratch developer, Scratch developer, Scratch developer, SQL dev"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "S": {
+    "h": {
+      "u": {
+        "k": {
+          "y": {
+            "@": "Snekk \"developer\", 8086 Assembler dev, AWS coordinator"
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "e": {
+            "@": "Full low level stack, Scratch developer"
+          }
+        },
+        "w": {
+          "n": {
+            "@": "8086 Assembler dev"
+          }
+        },
+        "u": {
+          "n": {
+            "@": "Android developer, Java \/ Java EE developer, AWS coordinator, Android developer"
+          }
+        }
+      },
+      "e": {
+        "p": {
+          "h": {
+            "e": {
+              "r": {
+                "d": {
+                  "@": "Java \/ Java EE developer"
+                }
+              }
+            }
+          },
+          "a": {
+            "r": {
+              "d": {
+                "@": "Full web stack, Full web stack"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "l": {
+          "o": {
+            "h": {
+              "@": "Full web stack"
+            }
+          }
+        }
+      },
+      "m": {
+        "u": {
+          "e": {
+            "l": {
+              "@": "Full web stack, 8086 Assembler dev, Full web stack"
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "m": {
+        "u": {
+          "e": {
+            "l": {
+              "@": "Snekk \"developer\""
+            }
+          }
+        },
+        "@": "Swift developer, 8086 Assembler dev",
+        "s": {
+          "o": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Full low level stack, Snekk \"developer\""
+            }
+          }
+        },
+        "i": {
+          "r": {
+            "@": "Scratch developer, Java \/ Java EE developer, Swift developer"
+          }
+        }
+      },
+      "n": {
+        "t": {
+          "i": {
+            "a": {
+              "g": {
+                "o": {
+                  "@": "AWS coordinator, Scratch developer"
+                }
+              }
+            },
+            "n": {
+              "o": {
+                "@": "SQL dev"
+              }
+            }
+          },
+          "a": {
+            "n": {
+              "a": {
+                "@": "Snekk \"developer\", C# \/ Xamarin developer"
+              }
+            }
+          },
+          "o": {
+            "s": {
+              "@": "Scratch developer, Full low level stack, Full low level stack"
+            }
+          }
+        }
+      },
+      "w": {
+        "y": {
+          "e": {
+            "r": {
+              "@": "8086 Assembler dev, AWS coordinator, Full web stack, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "g": {
+        "e": {
+          "@": "AWS coordinator"
+        }
+      },
+      "u": {
+        "l": {
+          "@": "Discord bot developer, Android developer"
+        }
+      },
+      "l": {
+        "v": {
+          "a": {
+            "d": {
+              "o": {
+                "r": {
+                  "@": "Snekk \"developer\", Full low level stack"
+                }
+              }
+            },
+            "t": {
+              "o": {
+                "r": {
+                  "e": {
+                    "@": "Java \/ Java EE developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "b": {
+        "a": {
+          "s": {
+            "t": {
+              "i": {
+                "a": {
+                  "n": {
+                    "@": "AWS coordinator, Android developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "@": "Full web stack, Full low level stack"
+        },
+        "m": {
+          "u": {
+            "s": {
+              "@": "Scratch developer, Full low level stack"
+            }
+          }
+        }
+      },
+      "t": {
+        "h": {
+          "@": "C# \/ Xamarin developer, Discord bot developer, Full low level stack"
+        }
+      },
+      "r": {
+        "g": {
+          "i": {
+            "o": {
+              "@": "Brainf*ck developer"
+            }
+          }
+        }
+      }
+    },
+    "i": {
+      "l": {
+        "a": {
+          "s": {
+            "@": "Discord bot developer, Swift developer"
+          }
+        }
+      },
+      "m": {
+        "o": {
+          "n": {
+            "@": "Java \/ Java EE developer, Brainf*ck developer, AWS coordinator, Snekk \"developer\""
+          }
+        },
+        "e": {
+          "o": {
+            "n": {
+              "@": "Scratch developer, Full low level stack, Snekk \"developer\", C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "n": {
+        "c": {
+          "e": {
+            "r": {
+              "e": {
+                "@": "Android developer, Brainf*ck developer, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "t": {
+      "e": {
+        "v": {
+          "e": {
+            "n": {
+              "@": "Android developer, AWS coordinator, 8086 Assembler dev, Full low level stack"
+            }
+          }
+        },
+        "p": {
+          "h": {
+            "e": {
+              "n": {
+                "@": "Swift developer, Snekk \"developer\""
+              }
+            }
+          }
+        },
+        "r": {
+          "l": {
+            "i": {
+              "n": {
+                "g": {
+                  "@": "Swift developer, Brainf*ck developer, Java \/ Java EE developer"
+                }
+              }
+            }
+          }
+        },
+        "t": {
+          "s": {
+            "o": {
+              "n": {
+                "@": "Discord bot developer, Brainf*ck developer, Android developer"
+              }
+            }
+          }
+        },
+        "f": {
+          "a": {
+            "n": {
+              "@": "SQL dev"
+            }
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "l": {
+            "e": {
+              "y": {
+                "@": "Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "p": {
+      "e": {
+        "n": {
+          "c": {
+            "e": {
+              "r": {
+                "@": "C# \/ Xamarin developer, AWS coordinator, Full web stack"
+              }
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "l": {
+        "o": {
+          "m": {
+            "o": {
+              "n": {
+                "@": "Swift developer, Discord bot developer, Full low level stack"
+              }
+            }
+          }
+        }
+      },
+      "r": {
+        "e": {
+          "n": {
+            "@": "Scratch developer, Android developer"
+          }
+        }
+      },
+      "n": {
+        "n": {
+          "y": {
+            "@": "Discord bot developer, SQL dev"
+          }
+        }
+      }
+    },
+    "u": {
+      "l": {
+        "l": {
+          "i": {
+            "v": {
+              "a": {
+                "n": {
+                  "@": "Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      },
+      "t": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Discord bot developer, Full web stack, C# \/ Xamarin developer"
+            }
+          }
+        }
+      }
+    },
+    "k": {
+      "y": {
+        "l": {
+          "e": {
+            "r": {
+              "@": "AWS coordinator, Android developer, AWS coordinator"
+            }
+          },
+          "a": {
+            "r": {
+              "@": "Snekk \"developer\""
+            }
+          }
+        }
+      }
+    },
+    "c": {
+      "o": {
+        "t": {
+          "t": {
+            "@": "SQL dev, AWS coordinator, Scratch developer"
+          }
+        }
+      }
+    },
+    "y": {
+      "l": {
+        "a": {
+          "s": {
+            "@": "C# \/ Xamarin developer, Discord bot developer, Scratch developer, Discord bot developer"
+          }
+        }
+      }
+    }
+  },
+  "N": {
+    "a": {
+      "d": {
+        "a": {
+          "v": {
+            "@": "Full Web Stack, Android RE, Java, member of KAF"
+          }
+        }
+      },
+      "t": {
+        "h": {
+          "a": {
+            "n": {
+              "@": "Swift developer, Snekk \"developer\", Swift developer",
+              "i": {
+                "e": {
+                  "l": {
+                    "@": "Snekk \"developer\", Full web stack, Android developer"
+                  }
+                }
+              },
+              "a": {
+                "e": {
+                  "l": {
+                    "@": "Java \/ Java EE developer, 8086 Assembler dev"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "s": {
+        "h": {
+          "@": "Scratch developer, Full low level stack, C# \/ Xamarin developer, SQL dev"
+        },
+        "i": {
+          "r": {
+            "@": "Fuc*ing cyber megamind, Binary Exploitation, RE, OOP, C\/C++, member of KAF"
+          }
+        }
+      }
+    },
+    "i": {
+      "r": {
+        "@": "C# \/ Xamarin developer, Full web stack, Android developer"
+      },
+      "c": {
+        "h": {
+          "o": {
+            "l": {
+              "a": {
+                "s": {
+                  "@": "C# \/ Xamarin developer, Snekk \"developer\", Snekk \"developer\", Android developer"
+                }
+              }
+            }
+          }
+        },
+        "o": {
+          "l": {
+            "a": {
+              "s": {
+                "@": "Swift developer, Java \/ Java EE developer"
+              }
+            }
+          },
+          "@": "Full web stack, Swift developer"
+        },
+        "k": {
+          "o": {
+            "l": {
+              "a": {
+                "s": {
+                  "@": "8086 Assembler dev, Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      },
+      "x": {
+        "o": {
+          "n": {
+            "@": "Full low level stack"
+          }
+        }
+      },
+      "k": {
+        "o": {
+          "l": {
+            "a": {
+              "i": {
+                "@": "AWS coordinator, Discord bot developer"
+              },
+              "s": {
+                "@": "Android developer, Scratch developer"
+              }
+            }
+          },
+          "@": "8086 Assembler dev, Java \/ Java EE developer, SQL dev, Full web stack"
+        }
+      }
+    },
+    "o": {
+      "a": {
+        "h": {
+          "@": "Android developer, Brainf*ck developer, Brainf*ck developer"
+        }
+      },
+      "l": {
+        "a": {
+          "n": {
+            "@": "Full web stack, C# \/ Xamarin developer, Java \/ Java EE developer, Snekk \"developer\""
+          }
+        }
+      },
+      "e": {
+        "l": {
+          "@": "Discord bot developer"
+        },
+        "@": "Android developer, Scratch developer, Java \/ Java EE developer, Scratch developer"
+      },
+      "v": {
+        "a": {
+          "@": "Swift developer"
+        }
+      }
+    },
+    "e": {
+      "h": {
+        "e": {
+          "m": {
+            "i": {
+              "a": {
+                "h": {
+                  "@": "Snekk \"developer\", Snekk \"developer\", Scratch developer, Brainf*ck developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "l": {
+          "@": "Swift developer, Java \/ Java EE developer, SQL dev, Scratch developer, Java \/ Java EE developer"
+        }
+      },
+      "l": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "SQL dev, Scratch developer, Full web stack, Swift developer, Swift developer"
+            }
+          }
+        }
+      }
+    }
+  },
+  "L": {
+    "i": {
+      "a": {
+        "m": {
+          "@": "Full low level stack, Java \/ Java EE developer"
+        }
+      },
+      "n": {
+        "c": {
+          "o": {
+            "l": {
+              "n": {
+                "@": "Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      },
+      "o": {
+        "n": {
+          "e": {
+            "l": {
+              "@": "Discord bot developer"
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "g": {
+        "a": {
+          "n": {
+            "@": "Snekk \"developer\", Java \/ Java EE developer"
+          }
+        }
+      },
+      "r": {
+        "e": {
+          "n": {
+            "z": {
+              "o": {
+                "@": "Discord bot developer"
+              }
+            }
+          }
+        }
+      },
+      "u": {
+        "i": {
+          "s": {
+            "@": "SQL dev"
+          },
+          "e": {
+            "@": "Swift developer, SQL dev, Snekk \"developer\""
+          }
+        }
+      },
+      "c": {
+        "h": {
+          "l": {
+            "a": {
+              "n": {
+                "@": "Discord bot developer, Java \/ Java EE developer, SQL dev"
+              }
+            }
+          }
+        }
+      },
+      "n": {
+        "d": {
+          "o": {
+            "n": {
+              "@": "Scratch developer, Android developer"
+            }
+          }
+        }
+      }
+    },
+    "u": {
+      "c": {
+        "a": {
+          "s": {
+            "@": "SQL dev, 8086 Assembler dev, Discord bot developer, Brainf*ck developer"
+          },
+          "@": "Discord bot developer"
+        },
+        "i": {
+          "a": {
+            "n": {
+              "o": {
+                "@": "Discord bot developer, Discord bot developer"
+              },
+              "@": "Brainf*ck developer, AWS coordinator, Scratch developer, Brainf*ck developer"
+            }
+          }
+        },
+        "c": {
+          "a": {
+            "@": "Android developer, Snekk \"developer\", Brainf*ck developer, C# \/ Xamarin developer"
+          }
+        }
+      },
+      "k": {
+        "e": {
+          "@": "SQL dev, Brainf*ck developer, Full low level stack"
+        },
+        "a": {
+          "s": {
+            "@": "Full low level stack"
+          },
+          "@": "Full low level stack, Full low level stack, Swift developer, Discord bot developer"
+        }
+      },
+      "i": {
+        "s": {
+          "@": "Scratch developer, SQL dev, Snekk \"developer\""
+        }
+      }
+    },
+    "e": {
+      "v": {
+        "i": {
+          "@": "Full low level stack, Java \/ Java EE developer, Full web stack"
+        }
+      },
+      "o": {
+        "@": "Scratch developer, Discord bot developer",
+        "n": {
+          "a": {
+            "r": {
+              "d": {
+                "o": {
+                  "@": "8086 Assembler dev, Full low level stack, SQL dev"
+                },
+                "@": "Discord bot developer"
+              }
+            }
+          },
+          "@": "Brainf*ck developer, Java \/ Java EE developer, Scratch developer",
+          "e": {
+            "l": {
+              "@": "Discord bot developer, AWS coordinator"
+            }
+          },
+          "i": {
+            "d": {
+              "a": {
+                "s": {
+                  "@": "Brainf*ck developer, AWS coordinator, Snekk \"developer\", Discord bot developer, C# \/ Xamarin developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "g": {
+        "e": {
+          "n": {
+            "d": {
+              "@": "8086 Assembler dev, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "l": {
+        "a": {
+          "n": {
+            "d": {
+              "@": "Java \/ Java EE developer, Full low level stack, Full web stack"
+            }
+          }
+        }
+      },
+      "n": {
+        "n": {
+          "o": {
+            "x": {
+              "@": "Java \/ Java EE developer, Java \/ Java EE developer"
+            },
+            "n": {
+              "@": "Brainf*ck developer, Android developer"
+            }
+          }
+        }
+      },
+      "w": {
+        "i": {
+          "s": {
+            "@": "Full low level stack, Swift developer, SQL dev"
+          }
+        }
+      },
+      "e": {
+        "@": "Brainf*ck developer, Full low level stack, Brainf*ck developer"
+      },
+      "a": {
+        "n": {
+          "d": {
+            "r": {
+              "o": {
+                "@": "Swift developer, Android developer, Android developer, Full low level stack"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "g": {
+          "h": {
+            "t": {
+              "o": {
+                "n": {
+                  "@": "Android developer, AWS coordinator, 8086 Assembler dev"
+                }
+              }
+            }
+          }
+        },
+        "f": {
+          "@": "Swift developer, Android developer, Snekk \"developer\", Snekk \"developer\""
+        }
+      },
+      "r": {
+        "o": {
+          "y": {
+            "@": "AWS coordinator, Discord bot developer, 8086 Assembler dev, Brainf*ck developer"
+          }
+        }
+      },
+      "d": {
+        "g": {
+          "e": {
+            "r": {
+              "@": "Android developer, Swift developer"
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "n": {
+        "d": {
+          "o": {
+            "n": {
+              "@": "8086 Assembler dev, Brainf*ck developer"
+            }
+          },
+          "e": {
+            "n": {
+              "@": "Full web stack, 8086 Assembler dev, Android developer"
+            }
+          },
+          "y": {
+            "n": {
+              "@": "Discord bot developer, 8086 Assembler dev"
+            }
+          },
+          "r": {
+            "y": {
+              "@": "AWS coordinator"
+            }
+          }
+        },
+        "e": {
+          "@": "Snekk \"developer\", Full web stack"
+        },
+        "c": {
+          "e": {
+            "@": "SQL dev, AWS coordinator, Android developer"
+          }
+        },
+        "g": {
+          "s": {
+            "t": {
+              "o": {
+                "n": {
+                  "@": "AWS coordinator, C# \/ Xamarin developer, Swift developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "w": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "Java \/ Java EE developer, Java \/ Java EE developer"
+            }
+          }
+        },
+        "r": {
+          "e": {
+            "n": {
+              "c": {
+                "e": {
+                  "@": "Java \/ Java EE developer, Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      },
+      "r": {
+        "r": {
+          "y": {
+            "@": "Swift developer, AWS coordinator, Brainf*ck developer"
+          }
+        }
+      },
+      "c": {
+        "h": {
+          "l": {
+            "a": {
+              "n": {
+                "@": "C# \/ Xamarin developer, AWS coordinator"
+              }
+            }
+          }
+        }
+      },
+      "y": {
+        "n": {
+          "e": {
+            "@": "Full web stack, Scratch developer, Java \/ Java EE developer"
+          }
+        },
+        "t": {
+          "o": {
+            "n": {
+              "@": "Java \/ Java EE developer, SQL dev"
+            }
+          }
+        }
+      },
+      "m": {
+        "a": {
+          "r": {
+            "@": "Android developer, Full low level stack, Scratch developer"
+          }
+        }
+      }
+    },
+    "y": {
+      "r": {
+        "i": {
+          "c": {
+            "@": "Full web stack, Discord bot developer"
+          }
+        }
+      },
+      "l": {
+        "e": {
+          "@": "SQL dev, Swift developer, Swift developer"
+        }
+      }
+    }
+  },
+  "W": {
+    "i": {
+      "l": {
+        "l": {
+          "i": {
+            "a": {
+              "m": {
+                "@": "Snekk \"developer\", 8086 Assembler dev"
+              }
+            },
+            "e": {
+              "@": "Android developer, Swift developer"
+            }
+          },
+          "@": "Brainf*ck developer, Swift developer"
+        },
+        "d": {
+          "e": {
+            "r": {
+              "@": "Full low level stack, C# \/ Xamarin developer, 8086 Assembler dev, Full web stack"
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Full low level stack, 8086 Assembler dev, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "n": {
+        "s": {
+          "t": {
+            "o": {
+              "n": {
+                "@": "Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "a": {
+        "t": {
+          "t": {
+            "@": "SQL dev, Scratch developer"
+          }
+        }
+      }
+    },
+    "e": {
+      "s": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "8086 Assembler dev"
+            }
+          },
+          "i": {
+            "n": {
+              "@": "Full low level stack, Scratch developer, Snekk \"developer\""
+            }
+          },
+          "l": {
+            "e": {
+              "y": {
+                "@": "Swift developer, 8086 Assembler dev, Full low level stack"
+              }
+            }
+          }
+        },
+        "l": {
+          "e": {
+            "y": {
+              "@": "Swift developer, C# \/ Xamarin developer, Swift developer"
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Brainf*ck developer, C# \/ Xamarin developer, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "l": {
+        "l": {
+          "s": {
+            "@": "C# \/ Xamarin developer, Full low level stack, Swift developer"
+          }
+        }
+      }
+    },
+    "a": {
+      "y": {
+        "l": {
+          "o": {
+            "n": {
+              "@": "AWS coordinator"
+            }
+          }
+        },
+        "n": {
+          "e": {
+            "@": "Full web stack"
+          }
+        }
+      },
+      "l": {
+        "t": {
+          "e": {
+            "r": {
+              "@": "Java \/ Java EE developer, SQL dev"
+            }
+          }
+        },
+        "k": {
+          "e": {
+            "r": {
+              "@": "Scratch developer, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "r": {
+        "r": {
+          "e": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Full low level stack"
+            }
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "@": "Android developer, Brainf*ck developer, Full web stack"
+        }
+      }
+    }
+  },
+  "J": {
+    "a": {
+      "m": {
+        "e": {
+          "s": {
+            "@": "Scratch developer, Full web stack",
+            "o": {
+              "n": {
+                "@": "Android developer, Discord bot developer"
+              }
+            }
+          }
+        },
+        "i": {
+          "s": {
+            "o": {
+              "n": {
+                "@": "Scratch developer"
+              }
+            }
+          },
+          "r": {
+            "@": "AWS coordinator, 8086 Assembler dev, Android developer"
+          },
+          "e": {
+            "@": "Android developer"
+          }
+        },
+        "a": {
+          "r": {
+            "i": {
+              "@": "8086 Assembler dev, Full web stack, Brainf*ck developer"
+            }
+          },
+          "l": {
+            "@": "Scratch developer, C# \/ Xamarin developer"
+          }
+        }
+      },
+      "c": {
+        "o": {
+          "b": {
+            "@": "Full web stack",
+            "y": {
+              "@": "Android developer, SQL dev, 8086 Assembler dev"
+            }
+          }
+        },
+        "k": {
+          "s": {
+            "o": {
+              "n": {
+                "@": "Android developer, Snekk \"developer\""
+              }
+            }
+          },
+          "@": "Full low level stack, AWS coordinator"
+        },
+        "e": {
+          "@": "C# \/ Xamarin developer, Brainf*ck developer, 8086 Assembler dev, Swift developer"
+        }
+      },
+      "y": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Brainf*ck developer"
+            }
+          }
+        },
+        "c": {
+          "e": {
+            "@": "Swift developer",
+            "o": {
+              "n": {
+                "@": "Swift developer, Android developer, C# \/ Xamarin developer"
+              }
+            }
+          }
+        },
+        "l": {
+          "e": {
+            "n": {
+              "@": "Java \/ Java EE developer, Swift developer, Discord bot developer, Full web stack"
+            }
+          }
+        },
+        "@": "Java \/ Java EE developer, Android developer",
+        "s": {
+          "o": {
+            "n": {
+              "@": "Snekk \"developer\", Full web stack, Full web stack"
+            }
+          }
+        }
+      },
+      "x": {
+        "o": {
+          "n": {
+            "@": "Scratch developer, Brainf*ck developer, Brainf*ck developer"
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        },
+        "@": "Swift developer, AWS coordinator, Scratch developer",
+        "t": {
+          "o": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Android developer, SQL dev, Full web stack"
+            }
+          }
+        },
+        "e": {
+          "n": {
+            "@": "Brainf*ck developer, Java \/ Java EE developer"
+          }
+        },
+        "x": {
+          "o": {
+            "n": {
+              "@": "Scratch developer, AWS coordinator"
+            }
+          },
+          "@": "Android developer"
+        }
+      },
+      "s": {
+        "o": {
+          "n": {
+            "@": "Android developer, SQL dev"
+          }
+        },
+        "p": {
+          "e": {
+            "r": {
+              "@": "Java \/ Java EE developer, Snekk \"developer\", Full web stack, Full web stack"
+            }
+          }
+        },
+        "e": {
+          "@": "Discord bot developer, C# \/ Xamarin developer, Snekk \"developer\", Full low level stack"
+        },
+        "i": {
+          "a": {
+            "h": {
+              "@": "Snekk \"developer\", Swift developer, Full web stack, SQL dev"
+            }
+          }
+        }
+      },
+      "v": {
+        "i": {
+          "e": {
+            "r": {
+              "@": "Android developer"
+            }
+          },
+          "o": {
+            "n": {
+              "@": "Brainf*ck developer, AWS coordinator, Discord bot developer"
+            }
+          }
+        },
+        "o": {
+          "n": {
+            "@": "AWS coordinator, 8086 Assembler dev, C# \/ Xamarin developer"
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "n": {
+            "@": "Android developer"
+          }
+        },
+        "i": {
+          "e": {
+            "l": {
+              "@": "Scratch developer, Discord bot developer, C# \/ Xamarin developer"
+            }
+          }
+        },
+        "@": "AWS coordinator"
+      },
+      "k": {
+        "e": {
+          "@": "Swift developer, Swift developer"
+        },
+        "o": {
+          "b": {
+            "@": "Swift developer, Full web stack"
+          }
+        }
+      },
+      "i": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Snekk \"developer\", 8086 Assembler dev, Scratch developer, 8086 Assembler dev"
+            }
+          }
+        },
+        "m": {
+          "e": {
+            "@": "Brainf*ck developer, SQL dev, Discord bot developer, AWS coordinator"
+          }
+        },
+        "r": {
+          "o": {
+            "@": "C# \/ Xamarin developer"
+          }
+        }
+      },
+      "r": {
+        "e": {
+          "d": {
+            "@": "8086 Assembler dev, Discord bot developer, Full low level stack, AWS coordinator"
+          }
+        }
+      },
+      "l": {
+        "e": {
+          "n": {
+            "@": "AWS coordinator"
+          }
+        }
+      },
+      "g": {
+        "g": {
+          "e": {
+            "r": {
+              "@": "8086 Assembler dev, Snekk \"developer\", Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "z": {
+        "i": {
+          "e": {
+            "l": {
+              "@": "Full low level stack, Full web stack, Swift developer"
+            }
+          }
+        }
+      },
+      "b": {
+        "a": {
+          "r": {
+            "i": {
+              "@": "Full low level stack, AWS coordinator, 8086 Assembler dev"
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "s": {
+        "e": {
+          "p": {
+            "h": {
+              "@": "8086 Assembler dev, Scratch developer, Discord bot developer"
+            }
+          },
+          "@": "Scratch developer, C# \/ Xamarin developer, Scratch developer"
+        },
+        "h": {
+          "u": {
+            "a": {
+              "@": "Discord bot developer, Full low level stack"
+            }
+          }
+        },
+        "i": {
+          "a": {
+            "h": {
+              "@": "Java \/ Java EE developer, Full low level stack, Full low level stack, Discord bot developer"
+            }
+          }
+        },
+        "u": {
+          "e": {
+            "@": "AWS coordinator, AWS coordinator, 8086 Assembler dev, Swift developer"
+          }
+        }
+      },
+      "h": {
+        "n": {
+          "@": "Snekk \"developer\", Full low level stack, Snekk \"developer\"",
+          "n": {
+            "y": {
+              "@": "Full web stack"
+            }
+          },
+          "a": {
+            "t": {
+              "h": {
+                "a": {
+                  "n": {
+                    "@": "Swift developer, Brainf*ck developer, Android developer"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "a": {
+          "n": {
+            "@": "Android developer, SQL dev"
+          }
+        }
+      },
+      "n": {
+        "a": {
+          "t": {
+            "h": {
+              "a": {
+                "n": {
+                  "@": "Discord bot developer, Full low level stack"
+                }
+              }
+            }
+          },
+          "h": {
+            "@": "Full low level stack, Scratch developer, Discord bot developer"
+          },
+          "s": {
+            "@": "Full low level stack, Android developer, Java \/ Java EE developer, SQL dev"
+          }
+        },
+        "@": "C# \/ Xamarin developer, Java \/ Java EE developer"
+      },
+      "r": {
+        "d": {
+          "a": {
+            "n": {
+              "@": "SQL dev, Discord bot developer"
+            }
+          },
+          "y": {
+            "@": "Swift developer, 8086 Assembler dev"
+          }
+        },
+        "g": {
+          "e": {
+            "@": "Brainf*ck developer, Scratch developer"
+          }
+        }
+      },
+      "e": {
+        "l": {
+          "@": "SQL dev, 8086 Assembler dev"
+        },
+        "@": "8086 Assembler dev, Android developer, Android developer, Java \/ Java EE developer",
+        "y": {
+          "@": "Discord bot developer, Java \/ Java EE developer, C# \/ Xamarin developer"
+        }
+      },
+      "a": {
+        "q": {
+          "u": {
+            "i": {
+              "n": {
+                "@": "Scratch developer, AWS coordinator, Java \/ Java EE developer, SQL dev"
+              }
+            }
+          }
+        }
+      },
+      "z": {
+        "i": {
+          "a": {
+            "h": {
+              "@": "Brainf*ck developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "v": {
+        "a": {
+          "n": {
+            "n": {
+              "i": {
+                "@": "Full web stack"
+              }
+            }
+          }
+        }
+      }
+    },
+    "u": {
+      "l": {
+        "i": {
+          "a": {
+            "n": {
+              "@": "Full web stack, Java \/ Java EE developer, 8086 Assembler dev"
+            }
+          },
+          "u": {
+            "s": {
+              "@": "Brainf*ck developer"
+            }
+          },
+          "o": {
+            "@": "AWS coordinator, Android developer, Swift developer, Android developer"
+          },
+          "e": {
+            "n": {
+              "@": "AWS coordinator"
+            }
+          }
+        }
+      },
+      "s": {
+        "t": {
+          "i": {
+            "n": {
+              "@": "8086 Assembler dev, AWS coordinator"
+            },
+            "c": {
+              "e": {
+                "@": "Discord bot developer, AWS coordinator, Java \/ Java EE developer, Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "@": "Full web stack, Scratch developer, Full web stack"
+        }
+      },
+      "d": {
+        "e": {
+          "@": "Android developer, Android developer"
+        },
+        "a": {
+          "h": {
+            "@": "AWS coordinator, C# \/ Xamarin developer"
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "8086 Assembler dev, Brainf*ck developer, Android developer, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "e": {
+        "l": {
+          "z": {
+            "@": "Discord bot developer, C# \/ Xamarin developer, Java \/ Java EE developer"
+          }
+        }
+      },
+      "n": {
+        "i": {
+          "o": {
+            "r": {
+              "@": "Java \/ Java EE developer, Full web stack"
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "r": {
+        "e": {
+          "m": {
+            "i": {
+              "a": {
+                "h": {
+                  "@": "AWS coordinator"
+                },
+                "s": {
+                  "@": "Java \/ Java EE developer, Scratch developer, SQL dev"
+                }
+              }
+            },
+            "y": {
+              "@": "Full low level stack, Android developer"
+            }
+          }
+        },
+        "r": {
+          "y": {
+            "@": "AWS coordinator"
+          }
+        },
+        "m": {
+          "a": {
+            "i": {
+              "n": {
+                "e": {
+                  "@": "Full low level stack, Discord bot developer, Scratch developer, Full web stack, Scratch developer"
+                }
+              }
+            }
+          }
+        },
+        "o": {
+          "m": {
+            "e": {
+              "@": "Swift developer, SQL dev"
+            }
+          }
+        }
+      },
+      "s": {
+        "u": {
+          "s": {
+            "@": "AWS coordinator, Discord bot developer"
+          }
+        },
+        "s": {
+          "e": {
+            "@": "Brainf*ck developer, Brainf*ck developer, Android developer, Java \/ Java EE developer"
+          },
+          "i": {
+            "e": {
+              "@": "8086 Assembler dev, Full web stack"
+            }
+          }
+        }
+      },
+      "t": {
+        "t": {
+          "@": "Full web stack, 8086 Assembler dev"
+        }
+      },
+      "f": {
+        "f": {
+          "r": {
+            "e": {
+              "y": {
+                "@": "Full low level stack, SQL dev, Java \/ Java EE developer"
+              }
+            }
+          },
+          "e": {
+            "r": {
+              "s": {
+                "o": {
+                  "n": {
+                    "@": "Full web stack, 8086 Assembler dev, Swift developer"
+                  }
+                }
+              },
+              "y": {
+                "@": "Snekk \"developer\", Android developer, Android developer, SQL dev"
+              }
+            }
+          }
+        }
+      },
+      "n": {
+        "s": {
+          "e": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Scratch developer, Scratch developer"
+            }
+          }
+        }
+      },
+      "d": {
+        "i": {
+          "d": {
+            "i": {
+              "a": {
+                "h": {
+                  "@": "Snekk \"developer\", Full low level stack, Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "i": {
+      "m": {
+        "m": {
+          "y": {
+            "@": "SQL dev, Full low level stack"
+          }
+        }
+      }
+    }
+  },
+  "B": {
+    "e": {
+      "n": {
+        "j": {
+          "a": {
+            "m": {
+              "i": {
+                "n": {
+                  "@": "Brainf*ck developer, Full low level stack, SQL dev"
+                }
+              }
+            }
+          }
+        },
+        "t": {
+          "l": {
+            "e": {
+              "y": {
+                "@": "Android developer, AWS coordinator, AWS coordinator"
+              },
+              "e": {
+                "@": "Java \/ Java EE developer, Swift developer, SQL dev"
+              }
+            }
+          },
+          "o": {
+            "n": {
+              "@": "C# \/ Xamarin developer, 8086 Assembler dev, Brainf*ck developer, SQL dev"
+            }
+          }
+        },
+        "n": {
+          "e": {
+            "t": {
+              "t": {
+                "@": "Scratch developer, Android developer, Swift developer, Discord bot developer, Brainf*ck developer"
+              }
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Android developer"
+            }
+          }
+        },
+        "@": "Swift developer, Android developer"
+      },
+      "a": {
+        "u": {
+          "@": "Full web stack, Swift developer"
+        }
+      },
+      "c": {
+        "k": {
+          "e": {
+            "t": {
+              "t": {
+                "@": "Full low level stack, C# \/ Xamarin developer, Discord bot developer"
+              }
+            }
+          },
+          "h": {
+            "a": {
+              "m": {
+                "@": "8086 Assembler dev, Full low level stack, Java \/ Java EE developer, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "r": {
+      "a": {
+        "y": {
+          "d": {
+            "e": {
+              "n": {
+                "@": "Swift developer, Discord bot developer, Full web stack, Swift developer"
+              }
+            },
+            "o": {
+              "n": {
+                "@": "SQL dev, Android developer, Full low level stack, 8086 Assembler dev"
+              }
+            }
+          },
+          "l": {
+            "e": {
+              "n": {
+                "@": "8086 Assembler dev, Discord bot developer, Discord bot developer"
+              }
+            },
+            "o": {
+              "n": {
+                "@": "SQL dev, C# \/ Xamarin developer"
+              }
+            }
+          },
+          "a": {
+            "n": {
+              "@": "Full low level stack, Full web stack, Snekk \"developer\""
+            }
+          },
+          "s": {
+            "o": {
+              "n": {
+                "@": "C# \/ Xamarin developer, AWS coordinator"
+              }
+            }
+          }
+        },
+        "n": {
+          "d": {
+            "o": {
+              "n": {
+                "@": "Java \/ Java EE developer"
+              }
+            }
+          },
+          "t": {
+            "l": {
+              "e": {
+                "y": {
+                  "@": "Java \/ Java EE developer, C# \/ Xamarin developer, C# \/ Xamarin developer, Discord bot developer"
+                }
+              }
+            }
+          },
+          "s": {
+            "o": {
+              "n": {
+                "@": "Android developer, Swift developer, Snekk \"developer\""
+              }
+            }
+          }
+        },
+        "x": {
+          "t": {
+            "o": {
+              "n": {
+                "@": "Swift developer"
+              }
+            }
+          }
+        },
+        "d": {
+          "y": {
+            "@": "C# \/ Xamarin developer, Full web stack"
+          },
+          "l": {
+            "e": {
+              "y": {
+                "@": "Snekk \"developer\", 8086 Assembler dev, Snekk \"developer\", C# \/ Xamarin developer"
+              }
+            }
+          },
+          "e": {
+            "n": {
+              "@": "Discord bot developer"
+            }
+          }
+        }
+      },
+      "y": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "Discord bot developer"
+            }
+          },
+          "e": {
+            "n": {
+              "@": "SQL dev, Brainf*ck developer, Snekk \"developer\""
+            }
+          }
+        },
+        "c": {
+          "e": {
+            "@": "Scratch developer, Scratch developer, Swift developer, 8086 Assembler dev",
+            "n": {
+              "@": "C# \/ Xamarin developer, 8086 Assembler dev, Swift developer"
+            }
+          }
+        },
+        "a": {
+          "n": {
+            "@": "Scratch developer, Java \/ Java EE developer, SQL dev, Swift developer",
+            "t": {
+              "@": "AWS coordinator, 8086 Assembler dev"
+            }
+          }
+        }
+      },
+      "o": {
+        "d": {
+          "y": {
+            "@": "Swift developer, 8086 Assembler dev, C# \/ Xamarin developer, Android developer"
+          },
+          "i": {
+            "e": {
+              "@": "C# \/ Xamarin developer, 8086 Assembler dev, Brainf*ck developer"
+            }
+          }
+        },
+        "o": {
+          "k": {
+            "s": {
+              "@": "Snekk \"developer\", AWS coordinator, AWS coordinator, Discord bot developer, Java \/ Java EE developer"
+            }
+          }
+        },
+        "c": {
+          "k": {
+            "@": "Brainf*ck developer, Brainf*ck developer"
+          }
+        },
+        "n": {
+          "s": {
+            "o": {
+              "n": {
+                "@": "Full low level stack, Full low level stack, SQL dev, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "a": {
+          "n": {
+            "@": "Full web stack, SQL dev, Discord bot developer, 8086 Assembler dev"
+          },
+          "r": {
+            "@": "Java \/ Java EE developer, Discord bot developer"
+          }
+        },
+        "g": {
+          "g": {
+            "s": {
+              "@": "Snekk \"developer\", Swift developer"
+            }
+          }
+        },
+        "x": {
+          "t": {
+            "o": {
+              "n": {
+                "@": "Full low level stack, Full low level stack"
+              }
+            }
+          }
+        },
+        "d": {
+          "g": {
+            "e": {
+              "r": {
+                "@": "AWS coordinator, Full web stack"
+              }
+            }
+          }
+        }
+      },
+      "u": {
+        "c": {
+          "e": {
+            "@": "Full web stack, Scratch developer"
+          }
+        },
+        "n": {
+          "o": {
+            "@": "Discord bot developer"
+          }
+        }
+      },
+      "e": {
+        "n": {
+          "d": {
+            "a": {
+              "n": {
+                "@": "Brainf*ck developer, Brainf*ck developer"
+              }
+            },
+            "e": {
+              "n": {
+                "@": "AWS coordinator, Snekk \"developer\", C# \/ Xamarin developer"
+              }
+            }
+          },
+          "n": {
+            "a": {
+              "n": {
+                "@": "Discord bot developer, Swift developer"
+              }
+            }
+          },
+          "t": {
+            "l": {
+              "e": {
+                "y": {
+                  "@": "Scratch developer, Android developer"
+                }
+              }
+            }
+          }
+        },
+        "c": {
+          "k": {
+            "e": {
+              "n": {
+                "@": "Android developer, SQL dev, Android developer"
+              }
+            }
+          }
+        },
+        "t": {
+          "t": {
+            "@": "AWS coordinator, Full web stack"
+          }
+        }
+      }
+    },
+    "l": {
+      "a": {
+        "k": {
+          "e": {
+            "@": "AWS coordinator, C# \/ Xamarin developer"
+          }
+        },
+        "i": {
+          "n": {
+            "e": {
+              "@": "SQL dev, Java \/ Java EE developer, 8086 Assembler dev"
+            }
+          },
+          "s": {
+            "e": {
+              "@": "AWS coordinator, Android developer"
+            }
+          }
+        },
+        "z": {
+          "e": {
+            "@": "AWS coordinator, Discord bot developer, Full low level stack, Swift developer"
+          }
+        }
+      }
+    },
+    "a": {
+      "r": {
+        "r": {
+          "e": {
+            "t": {
+              "t": {
+                "@": "Scratch developer, Scratch developer, Snekk \"developer\""
+              }
+            }
+          }
+        }
+      },
+      "y": {
+        "l": {
+          "o": {
+            "r": {
+              "@": "Brainf*ck developer, Swift developer"
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "d": {
+        "h": {
+          "i": {
+            "@": "Scratch developer, Full web stack, AWS coordinator"
+          }
+        },
+        "i": {
+          "e": {
+            "@": "AWS coordinator, Full low level stack, Brainf*ck developer"
+          }
+        }
+      },
+      "w": {
+        "e": {
+          "n": {
+            "@": "Android developer, Full web stack, SQL dev, Discord bot developer"
+          }
+        }
+      },
+      "@": "Full web stack",
+      "s": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "AWS coordinator, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "o": {
+        "n": {
+          "e": {
+            "@": "Brainf*ck developer, Discord bot developer, AWS coordinator"
+          }
+        }
+      },
+      "b": {
+        "b": {
+          "y": {
+            "@": "Scratch developer, Full web stack, Swift developer"
+          }
+        }
+      }
+    },
+    "y": {
+      "r": {
+        "o": {
+          "n": {
+            "@": "Swift developer, Brainf*ck developer, SQL dev, Brainf*ck developer"
+          }
+        }
+      }
+    },
+    "i": {
+      "l": {
+        "l": {
+          "y": {
+            "@": "Snekk \"developer\", Full low level stack, Discord bot developer"
+          }
+        }
+      },
+      "s": {
+        "h": {
+          "o": {
+            "p": {
+              "@": "Snekk \"developer\", AWS coordinator, Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    },
+    "j": {
+      "o": {
+        "r": {
+          "n": {
+            "@": "SQL dev, Scratch developer, Scratch developer, Brainf*ck developer"
+          }
+        }
+      }
+    }
+  },
+  "M": {
+    "a": {
+      "s": {
+        "o": {
+          "n": {
+            "@": "8086 Assembler dev"
+          }
+        }
+      },
+      "t": {
+        "t": {
+          "h": {
+            "e": {
+              "w": {
+                "@": "Swift developer"
+              }
+            },
+            "i": {
+              "a": {
+                "s": {
+                  "@": "Snekk \"developer\", Full web stack"
+                }
+              }
+            }
+          },
+          "e": {
+            "o": {
+              "@": "8086 Assembler dev, C# \/ Xamarin developer"
+            }
+          }
+        },
+        "e": {
+          "o": {
+            "@": "SQL dev, Java \/ Java EE developer"
+          }
+        },
+        "i": {
+          "a": {
+            "s": {
+              "@": "Brainf*ck developer"
+            }
+          }
+        },
+        "h": {
+          "i": {
+            "a": {
+              "s": {
+                "@": "Swift developer"
+              }
+            }
+          },
+          "e": {
+            "w": {
+              "@": "Full web stack"
+            }
+          }
+        }
+      },
+      "v": {
+        "e": {
+          "r": {
+            "i": {
+              "c": {
+                "k": {
+                  "@": "Full web stack, SQL dev, Scratch developer, Full low level stack, Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      },
+      "x": {
+        "@": "C# \/ Xamarin developer, AWS coordinator, C# \/ Xamarin developer",
+        "w": {
+          "e": {
+            "l": {
+              "l": {
+                "@": "Scratch developer, AWS coordinator, Full low level stack, Scratch developer, AWS coordinator"
+              }
+            }
+          }
+        },
+        "i": {
+          "m": {
+            "u": {
+              "s": {
+                "@": "Snekk \"developer\""
+              }
+            },
+            "i": {
+              "l": {
+                "i": {
+                  "a": {
+                    "n": {
+                      "o": {
+                        "@": "Swift developer, AWS coordinator"
+                      },
+                      "@": "8086 Assembler dev, 8086 Assembler dev"
+                    }
+                  }
+                }
+              }
+            },
+            "@": "8086 Assembler dev, SQL dev, C# \/ Xamarin developer",
+            "o": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        },
+        "t": {
+          "o": {
+            "n": {
+              "@": "AWS coordinator"
+            }
+          }
+        }
+      },
+      "d": {
+        "d": {
+          "o": {
+            "x": {
+              "@": "Brainf*ck developer, Discord bot developer"
+            }
+          },
+          "e": {
+            "n": {
+              "@": "Discord bot developer, 8086 Assembler dev, Full low level stack"
+            }
+          },
+          "u": {
+            "x": {
+              "@": "Android developer, Full web stack, Swift developer, SQL dev"
+            }
+          }
+        }
+      },
+      "l": {
+        "a": {
+          "c": {
+            "h": {
+              "i": {
+                "@": "C# \/ Xamarin developer, Full low level stack, Java \/ Java EE developer, C# \/ Xamarin developer"
+              }
+            }
+          },
+          "k": {
+            "a": {
+              "i": {
+                "@": "Snekk \"developer\", Full web stack"
+              }
+            }
+          }
+        },
+        "i": {
+          "k": {
+            "@": "Full low level stack, AWS coordinator, Full web stack"
+          }
+        },
+        "c": {
+          "o": {
+            "l": {
+              "m": {
+                "@": "C# \/ Xamarin developer, 8086 Assembler dev"
+              }
+            }
+          }
+        }
+      },
+      "r": {
+        "c": {
+          "u": {
+            "s": {
+              "@": "8086 Assembler dev, Java \/ Java EE developer, Snekk \"developer\", C# \/ Xamarin developer"
+            }
+          },
+          "o": {
+            "@": "Full low level stack, Brainf*ck developer, Android developer",
+            "s": {
+              "@": "Brainf*ck developer"
+            }
+          },
+          "e": {
+            "l": {
+              "o": {
+                "@": "Java \/ Java EE developer, C# \/ Xamarin developer, Swift developer, Android developer"
+              },
+              "@": "Brainf*ck developer"
+            }
+          },
+          "@": "Android developer, Full low level stack, 8086 Assembler dev, AWS coordinator"
+        },
+        "k": {
+          "@": "Brainf*ck developer",
+          "u": {
+            "s": {
+              "@": "Swift developer, Scratch developer, C# \/ Xamarin developer, Swift developer"
+            }
+          }
+        },
+        "t": {
+          "i": {
+            "n": {
+              "@": "8086 Assembler dev, C# \/ Xamarin developer, Full web stack, Full low level stack"
+            }
+          }
+        },
+        "i": {
+          "o": {
+            "@": "Swift developer"
+          }
+        },
+        "s": {
+          "h": {
+            "a": {
+              "l": {
+                "l": {
+                  "@": "AWS coordinator, AWS coordinator"
+                }
+              }
+            }
+          }
+        },
+        "v": {
+          "i": {
+            "n": {
+              "@": "Java \/ Java EE developer, Java \/ Java EE developer, 8086 Assembler dev, Scratch developer"
+            }
+          }
+        },
+        "l": {
+          "o": {
+            "n": {
+              "@": "Brainf*ck developer, Full low level stack, Snekk \"developer\""
+            }
+          },
+          "e": {
+            "y": {
+              "@": "Android developer"
+            }
+          }
+        }
+      },
+      "n": {
+        "u": {
+          "e": {
+            "l": {
+              "@": "Scratch developer, Full low level stack"
+            }
+          }
+        }
+      },
+      "j": {
+        "o": {
+          "r": {
+            "@": "Full low level stack, Snekk \"developer\", Brainf*ck developer"
+          }
+        }
+      },
+      "u": {
+        "r": {
+          "i": {
+            "c": {
+              "i": {
+                "o": {
+                  "@": "Brainf*ck developer, 8086 Assembler dev, Full low level stack, Snekk \"developer\""
+                }
+              },
+              "e": {
+                "@": "Discord bot developer, Full low level stack, Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      },
+      "c": {
+        "k": {
+          "@": "Full web stack, Snekk \"developer\""
+        }
+      },
+      "k": {
+        "a": {
+          "i": {
+            "@": "Full web stack, Brainf*ck developer, SQL dev, Android developer, Discord bot developer"
+          }
+        }
+      },
+      "g": {
+        "n": {
+          "u": {
+            "s": {
+              "@": "SQL dev"
+            }
+          }
+        }
+      },
+      "y": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "Brainf*ck developer, Scratch developer"
+            }
+          }
+        }
+      },
+      "i": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    },
+    "i": {
+      "c": {
+        "h": {
+          "a": {
+            "e": {
+              "l": {
+                "@": "C# \/ Xamarin developer"
+              }
+            }
+          },
+          "e": {
+            "a": {
+              "l": {
+                "@": "Snekk \"developer\", Full web stack, Java \/ Java EE developer"
+              }
+            }
+          }
+        },
+        "a": {
+          "h": {
+            "@": "SQL dev"
+          }
+        }
+      },
+      "l": {
+        "e": {
+          "s": {
+            "@": "Brainf*ck developer, C# \/ Xamarin developer, SQL dev, Snekk \"developer\""
+          }
+        },
+        "o": {
+          "@": "AWS coordinator, AWS coordinator"
+        },
+        "a": {
+          "n": {
+            "@": "SQL dev, Brainf*ck developer, Swift developer"
+          }
+        },
+        "l": {
+          "e": {
+            "r": {
+              "@": "Scratch developer"
+            }
+          }
+        }
+      },
+      "g": {
+        "u": {
+          "e": {
+            "l": {
+              "@": "Java \/ Java EE developer, Full low level stack"
+            }
+          }
+        }
+      },
+      "t": {
+        "c": {
+          "h": {
+            "e": {
+              "l": {
+                "l": {
+                  "@": "Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      },
+      "s": {
+        "a": {
+          "e": {
+            "l": {
+              "@": "SQL dev, SQL dev, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "k": {
+        "e": {
+          "@": "Scratch developer, Scratch developer"
+        }
+      }
+    },
+    "e": {
+      "s": {
+        "s": {
+          "i": {
+            "a": {
+              "h": {
+                "@": "C# \/ Xamarin developer, AWS coordinator, 8086 Assembler dev"
+              }
+            }
+          }
+        }
+      },
+      "k": {
+        "h": {
+          "i": {
+            "@": "Swift developer, Snekk \"developer\", Snekk \"developer\""
+          }
+        }
+      },
+      "m": {
+        "p": {
+          "h": {
+            "i": {
+              "s": {
+                "@": "C# \/ Xamarin developer"
+              }
+            }
+          }
+        }
+      },
+      "l": {
+        "v": {
+          "i": {
+            "n": {
+              "@": "8086 Assembler dev, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "r": {
+        "r": {
+          "i": {
+            "c": {
+              "k": {
+                "@": "Full web stack"
+              }
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "l": {
+        "e": {
+          "s": {
+            "@": "AWS coordinator, SQL dev"
+          }
+        }
+      }
+    },
+    "u": {
+      "h": {
+        "a": {
+          "m": {
+            "m": {
+              "a": {
+                "d": {
+                  "@": "Swift developer, C# \/ Xamarin developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "s": {
+        "a": {
+          "@": "AWS coordinator"
+        },
+        "t": {
+          "a": {
+            "f": {
+              "a": {
+                "@": "Swift developer, Swift developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "i": {
+        "s": {
+          "e": {
+            "s": {
+              "@": "Discord bot developer"
+            }
+          }
+        }
+      },
+      "h": {
+        "a": {
+          "m": {
+            "e": {
+              "d": {
+                "@": "C# \/ Xamarin developer"
+              }
+            },
+            "m": {
+              "a": {
+                "d": {
+                  "@": "Full low level stack, Discord bot developer"
+                }
+              },
+              "e": {
+                "d": {
+                  "@": "Scratch developer, Full low level stack, 8086 Assembler dev"
+                }
+              }
+            }
+          }
+        }
+      },
+      "s": {
+        "e": {
+          "s": {
+            "@": "Full low level stack, AWS coordinator"
+          }
+        },
+        "h": {
+          "e": {
+            "@": "AWS coordinator, Swift developer"
+          }
+        }
+      },
+      "r": {
+        "g": {
+          "a": {
+            "n": {
+              "@": "Brainf*ck developer, Android developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    }
+  },
+  "E": {
+    "l": {
+      "i": {
+        "j": {
+          "a": {
+            "h": {
+              "@": "Swift developer"
+            }
+          }
+        },
+        "@": "Android developer, Android developer, Snekk \"developer\"",
+        "a": {
+          "s": {
+            "@": "Snekk \"developer\", Snekk \"developer\", Full web stack, SQL dev, Snekk \"developer\""
+          },
+          "n": {
+            "@": "Full web stack, Snekk \"developer\", Java \/ Java EE developer, Brainf*ck developer"
+          }
+        },
+        "s": {
+          "h": {
+            "a": {
+              "@": "Scratch developer, AWS coordinator, C# \/ Xamarin developer"
+            }
+          },
+          "e": {
+            "o": {
+              "@": "8086 Assembler dev, SQL dev"
+            }
+          }
+        },
+        "e": {
+          "z": {
+            "e": {
+              "r": {
+                "@": "Brainf*ck developer, Full web stack, Scratch developer"
+              }
+            }
+          }
+        }
+      },
+      "l": {
+        "i": {
+          "o": {
+            "t": {
+              "t": {
+                "@": "Java \/ Java EE developer, C# \/ Xamarin developer, SQL dev"
+              },
+              "@": "Full web stack, Android developer"
+            }
+          },
+          "s": {
+            "@": "Full low level stack"
+          }
+        }
+      }
+    },
+    "t": {
+      "h": {
+        "a": {
+          "n": {
+            "@": "AWS coordinator, Discord bot developer, Full web stack"
+          }
+        }
+      }
+    },
+    "a": {
+      "s": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Swift developer, SQL dev, AWS coordinator"
+            }
+          }
+        },
+        "o": {
+          "n": {
+            "@": "Java \/ Java EE developer, Brainf*ck developer"
+          }
+        }
+      }
+    },
+    "z": {
+      "r": {
+        "a": {
+          "@": "Java \/ Java EE developer, Swift developer, AWS coordinator, Snekk \"developer\""
+        }
+      },
+      "e": {
+        "k": {
+          "i": {
+            "e": {
+              "l": {
+                "@": "Full web stack, Scratch developer, 8086 Assembler dev"
+              }
+            }
+          }
+        },
+        "q": {
+          "u": {
+            "i": {
+              "e": {
+                "l": {
+                  "@": "Android developer, Swift developer"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "v": {
+      "a": {
+        "n": {
+          "@": "Full web stack, Snekk \"developer\", Full low level stack, Android developer"
+        }
+      },
+      "e": {
+        "r": {
+          "e": {
+            "t": {
+              "t": {
+                "@": "C# \/ Xamarin developer, Scratch developer, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "m": {
+      "m": {
+        "e": {
+          "t": {
+            "t": {
+              "@": "Brainf*ck developer"
+            },
+            "@": "8086 Assembler dev, Brainf*ck developer, Full web stack"
+          }
+        },
+        "a": {
+          "n": {
+            "u": {
+              "e": {
+                "l": {
+                  "@": "Java \/ Java EE developer, Snekk \"developer\""
+                }
+              }
+            }
+          }
+        },
+        "i": {
+          "t": {
+            "t": {
+              "@": "Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "i": {
+        "l": {
+          "i": {
+            "a": {
+              "n": {
+                "o": {
+                  "@": "AWS coordinator"
+                }
+              }
+            },
+            "o": {
+              "@": "Android developer"
+            }
+          }
+        }
+      },
+      "e": {
+        "r": {
+          "s": {
+            "o": {
+              "n": {
+                "@": "Brainf*ck developer, Discord bot developer"
+              }
+            }
+          },
+          "y": {
+            "@": "C# \/ Xamarin developer, Swift developer"
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "u": {
+            "e": {
+              "l": {
+                "@": "Snekk \"developer\", Snekk \"developer\""
+              }
+            }
+          }
+        }
+      },
+      "o": {
+        "r": {
+          "y": {
+            "@": "AWS coordinator, AWS coordinator, 8086 Assembler dev"
+          }
+        }
+      }
+    },
+    "r": {
+      "i": {
+        "c": {
+          "@": "Java \/ Java EE developer, Scratch developer",
+          "k": {
+            "@": "AWS coordinator, Full web stack"
+          }
+        },
+        "k": {
+          "@": "Android developer"
+        }
+      },
+      "n": {
+        "e": {
+          "s": {
+            "t": {
+              "o": {
+                "@": "C# \/ Xamarin developer, Scratch developer, Brainf*ck developer"
+              },
+              "@": "Full web stack"
+            }
+          }
+        }
+      }
+    },
+    "d": {
+      "w": {
+        "a": {
+          "r": {
+            "d": {
+              "@": "Snekk \"developer\", Java \/ Java EE developer"
+            }
+          }
+        },
+        "i": {
+          "n": {
+            "@": "SQL dev, Snekk \"developer\", Swift developer, Discord bot developer, Brainf*ck developer"
+          }
+        }
+      },
+      "u": {
+        "a": {
+          "r": {
+            "d": {
+              "o": {
+                "@": "Full web stack, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      },
+      "g": {
+        "a": {
+          "r": {
+            "@": "Scratch developer"
+          }
+        }
+      },
+      "e": {
+        "n": {
+          "@": "C# \/ Xamarin developer, Snekk \"developer\", Swift developer"
+        }
+      },
+      "i": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Android developer, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "d": {
+        "i": {
+          "e": {
+            "@": "SQL dev, Brainf*ck developer, Brainf*ck developer"
+          }
+        }
+      }
+    },
+    "n": {
+      "z": {
+        "o": {
+          "@": "Full low level stack, Brainf*ck developer"
+        }
+      },
+      "r": {
+        "i": {
+          "q": {
+            "u": {
+              "e": {
+                "@": "Discord bot developer, SQL dev"
+              }
+            }
+          }
+        }
+      },
+      "o": {
+        "c": {
+          "h": {
+            "@": "Scratch developer, Full low level stack"
+          }
+        }
+      }
+    },
+    "s": {
+      "t": {
+        "e": {
+          "b": {
+            "a": {
+              "n": {
+                "@": "Java \/ Java EE developer, AWS coordinator, SQL dev"
+              }
+            }
+          }
+        }
+      }
+    },
+    "u": {
+      "g": {
+        "e": {
+          "n": {
+            "e": {
+              "@": "Scratch developer, Android developer, Full web stack"
+            }
+          }
+        }
+      }
+    },
+    "p": {
+      "h": {
+        "r": {
+          "a": {
+            "i": {
+              "m": {
+                "@": "C# \/ Xamarin developer, Snekk \"developer\", Scratch developer, Brainf*ck developer, Full low level stack"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "O": {
+    "l": {
+      "i": {
+        "v": {
+          "e": {
+            "r": {
+              "@": "AWS coordinator, SQL dev, 8086 Assembler dev"
+            }
+          }
+        }
+      }
+    },
+    "w": {
+      "e": {
+        "n": {
+          "@": "Java \/ Java EE developer, Android developer, Swift developer"
+        }
+      }
+    },
+    "s": {
+      "c": {
+        "a": {
+          "r": {
+            "@": "Discord bot developer"
+          }
+        }
+      }
+    },
+    "m": {
+      "a": {
+        "r": {
+          "@": "Scratch developer, Full low level stack, Full web stack, Discord bot developer",
+          "i": {
+            "@": "Snekk \"developer\", AWS coordinator, Discord bot developer, 8086 Assembler dev"
+          }
+        }
+      }
+    },
+    "r": {
+      "i": {
+        "o": {
+          "n": {
+            "@": "Discord bot developer, Scratch developer, Brainf*ck developer, AWS coordinator"
+          }
+        }
+      },
+      "l": {
+        "a": {
+          "n": {
+            "d": {
+              "o": {
+                "@": "Android developer, 8086 Assembler dev"
+              }
+            }
+          }
+        }
+      }
+    },
+    "d": {
+      "i": {
+        "n": {
+          "@": "Android developer, Discord bot developer"
+        }
+      }
+    },
+    "t": {
+      "t": {
+        "o": {
+          "@": "Java \/ Java EE developer, C# \/ Xamarin developer"
+        }
+      },
+      "i": {
+        "s": {
+          "@": "AWS coordinator, SQL dev, 8086 Assembler dev, Full web stack"
+        }
+      }
+    },
+    "a": {
+      "k": {
+        "l": {
+          "e": {
+            "y": {
+              "@": "8086 Assembler dev, Brainf*ck developer, Android developer"
+            }
+          }
+        }
+      }
+    }
+  },
+  "D": {
+    "a": {
+      "n": {
+        "i": {
+          "e": {
+            "l": {
+              "@": "Scratch developer, 8086 Assembler dev"
+            }
+          }
+        },
+        "t": {
+          "e": {
+            "@": "AWS coordinator, Android developer, Brainf*ck developer"
+          }
+        },
+        "n": {
+          "y": {
+            "@": "SQL dev, Full web stack"
+          }
+        },
+        "e": {
+          "@": "Scratch developer, 8086 Assembler dev, C# \/ Xamarin developer, Brainf*ck developer"
+        },
+        "g": {
+          "e": {
+            "l": {
+              "o": {
+                "@": "Full web stack, C# \/ Xamarin developer, Android developer, C# \/ Xamarin developer, AWS coordinator"
+              }
+            }
+          }
+        }
+      },
+      "v": {
+        "i": {
+          "d": {
+            "@": "SQL dev, Full web stack"
+          },
+          "s": {
+            "@": "Swift developer, Full low level stack, Swift developer"
+          },
+          "o": {
+            "n": {
+              "@": "Java \/ Java EE developer"
+            }
+          },
+          "a": {
+            "n": {
+              "@": "Swift developer, SQL dev, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "m": {
+        "i": {
+          "a": {
+            "n": {
+              "@": "Snekk \"developer\", Android developer, Android developer"
+            }
+          },
+          "e": {
+            "n": {
+              "@": "Android developer, Swift developer"
+            }
+          }
+        },
+        "o": {
+          "n": {
+            "@": "SQL dev"
+          }
+        },
+        "a": {
+          "r": {
+            "i": {
+              "@": "Brainf*ck developer, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "w": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "Discord bot developer, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "l": {
+        "l": {
+          "a": {
+            "s": {
+              "@": "Scratch developer, Brainf*ck developer"
+            }
+          }
+        },
+        "t": {
+          "o": {
+            "n": {
+              "@": "SQL dev, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "x": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Android developer, Swift developer, Scratch developer"
+            }
+          }
+        },
+        "@": "Full low level stack, Java \/ Java EE developer"
+      },
+      "k": {
+        "o": {
+          "t": {
+            "a": {
+              "@": "C# \/ Xamarin developer, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "r": {
+        "i": {
+          "u": {
+            "s": {
+              "@": "C# \/ Xamarin developer"
+            }
+          },
+          "e": {
+            "l": {
+              "@": "Discord bot developer, Swift developer, Discord bot developer"
+            }
+          },
+          "a": {
+            "n": {
+              "@": "Android developer, AWS coordinator, Snekk \"developer\""
+            }
+          },
+          "o": {
+            "@": "Scratch developer"
+          }
+        },
+        "r": {
+          "e": {
+            "n": {
+              "@": "Java \/ Java EE developer, AWS coordinator, Android developer"
+            },
+            "l": {
+              "l": {
+                "@": "8086 Assembler dev, Brainf*ck developer"
+              }
+            }
+          }
+        },
+        "w": {
+          "i": {
+            "n": {
+              "@": "SQL dev, Full web stack"
+            }
+          }
+        }
+      },
+      "s": {
+        "h": {
+          "@": "Brainf*ck developer, Snekk \"developer\""
+        }
+      },
+      "y": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Brainf*ck developer, Brainf*ck developer"
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "l": {
+        "a": {
+          "n": {
+            "@": "Discord bot developer, Android developer, Discord bot developer"
+          }
+        }
+      }
+    },
+    "o": {
+      "m": {
+        "i": {
+          "n": {
+            "i": {
+              "c": {
+                "@": "Swift developer, 8086 Assembler dev, AWS coordinator",
+                "k": {
+                  "@": "Android developer, SQL dev"
+                }
+              },
+              "k": {
+                "@": "Java \/ Java EE developer, Swift developer"
+              },
+              "q": {
+                "u": {
+                  "e": {
+                    "@": "Swift developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "n": {
+        "o": {
+          "v": {
+            "a": {
+              "n": {
+                "@": "AWS coordinator, Scratch developer, Scratch developer"
+              }
+            }
+          }
+        },
+        "a": {
+          "l": {
+            "d": {
+              "@": "C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "r": {
+        "i": {
+          "a": {
+            "n": {
+              "@": "Full web stack, C# \/ Xamarin developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "u": {
+        "g": {
+          "l": {
+            "a": {
+              "s": {
+                "@": "8086 Assembler dev"
+              }
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "c": {
+        "l": {
+          "a": {
+            "n": {
+              "@": "Full low level stack, Discord bot developer, Discord bot developer"
+            }
+          }
+        },
+        "k": {
+          "e": {
+            "r": {
+              "@": "Java \/ Java EE developer, Scratch developer, AWS coordinator"
+            }
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "@": "Android developer, 8086 Assembler dev, SQL dev",
+          "d": {
+            "r": {
+              "e": {
+                "@": "SQL dev, 8086 Assembler dev"
+              }
+            }
+          }
+        },
+        "c": {
+          "o": {
+            "n": {
+              "@": "Scratch developer, Swift developer, Full web stack, Full web stack"
+            }
+          }
+        }
+      },
+      "r": {
+        "e": {
+          "k": {
+            "@": "Android developer"
+          }
+        },
+        "r": {
+          "i": {
+            "c": {
+              "k": {
+                "@": "AWS coordinator, Scratch developer"
+              }
+            }
+          }
+        }
+      },
+      "s": {
+        "m": {
+          "o": {
+            "n": {
+              "d": {
+                "@": "Brainf*ck developer, Android developer"
+              }
+            }
+          }
+        }
+      },
+      "v": {
+        "i": {
+          "n": {
+            "@": "AWS coordinator"
+          }
+        },
+        "o": {
+          "n": {
+            "@": "AWS coordinator, Brainf*ck developer"
+          }
+        }
+      },
+      "x": {
+        "t": {
+          "e": {
+            "r": {
+              "@": "Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "n": {
+        "n": {
+          "i": {
+            "s": {
+              "@": "AWS coordinator, Android developer, Java \/ Java EE developer, Swift developer, Full low level stack"
+            }
+          }
+        },
+        "v": {
+          "e": {
+            "r": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "m": {
+        "e": {
+          "t": {
+            "r": {
+              "i": {
+                "u": {
+                  "s": {
+                    "@": "Swift developer, Full web stack, C# \/ Xamarin developer, Scratch developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "i": {
+      "e": {
+        "g": {
+          "o": {
+            "@": "Java \/ Java EE developer, SQL dev"
+          }
+        }
+      },
+      "l": {
+        "l": {
+          "o": {
+            "n": {
+              "@": "Android developer"
+            }
+          }
+        },
+        "a": {
+          "n": {
+            "@": "AWS coordinator, Swift developer, Android developer, Brainf*ck developer"
+          }
+        }
+      },
+      "m": {
+        "i": {
+          "t": {
+            "r": {
+              "i": {
+                "@": "Full web stack, AWS coordinator"
+              }
+            }
+          }
+        }
+      }
+    },
+    "r": {
+      "e": {
+        "w": {
+          "@": "Discord bot developer"
+        }
+      },
+      "a": {
+        "k": {
+          "e": {
+            "@": "Swift developer"
+          }
+        },
+        "v": {
+          "e": {
+            "n": {
+              "@": "Scratch developer, Brainf*ck developer"
+            }
+          }
+        }
+      }
+    },
+    "u": {
+      "s": {
+        "t": {
+          "i": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "k": {
+        "e": {
+          "@": "SQL dev, SQL dev, Scratch developer"
+        }
+      },
+      "n": {
+        "c": {
+          "a": {
+            "n": {
+              "@": "SQL dev, 8086 Assembler dev"
+            }
+          }
+        }
+      }
+    },
+    "w": {
+      "a": {
+        "y": {
+          "n": {
+            "e": {
+              "@": "Brainf*ck developer"
+            }
+          }
+        }
+      }
+    }
+  },
+  "H": {
+    "e": {
+      "n": {
+        "r": {
+          "y": {
+            "@": "Swift developer, Swift developer, Snekk \"developer\""
+          },
+          "i": {
+            "k": {
+              "@": "Android developer"
+            }
+          }
+        },
+        "d": {
+          "r": {
+            "i": {
+              "x": {
+                "@": "SQL dev, AWS coordinator"
+              }
+            }
+          }
+        }
+      },
+      "c": {
+        "t": {
+          "o": {
+            "r": {
+              "@": "SQL dev, Swift developer, AWS coordinator"
+            }
+          }
+        }
+      },
+      "z": {
+        "e": {
+          "k": {
+            "i": {
+              "a": {
+                "h": {
+                  "@": "Discord bot developer, SQL dev, C# \/ Xamarin developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "a": {
+        "t": {
+          "h": {
+            "@": "Full web stack, Brainf*ck developer, Android developer, Scratch developer"
+          }
+        }
+      }
+    },
+    "u": {
+      "n": {
+        "t": {
+          "e": {
+            "r": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "d": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "8086 Assembler dev, Discord bot developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "g": {
+        "o": {
+          "@": "Android developer, Full web stack, Full low level stack"
+        },
+        "h": {
+          "@": "SQL dev"
+        }
+      },
+      "x": {
+        "l": {
+          "e": {
+            "y": {
+              "@": "Android developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "r": {
+        "r": {
+          "i": {
+            "s": {
+              "o": {
+                "n": {
+                  "@": "SQL dev, Swift developer, Swift developer"
+                }
+              }
+            }
+          },
+          "y": {
+            "@": "Java \/ Java EE developer"
+          }
+        },
+        "v": {
+          "e": {
+            "y": {
+              "@": "Scratch developer, Scratch developer, Full web stack"
+            }
+          }
+        },
+        "l": {
+          "e": {
+            "y": {
+              "@": "Snekk \"developer\", C# \/ Xamarin developer, SQL dev"
+            }
+          },
+          "a": {
+            "n": {
+              "@": "Snekk \"developer\", Discord bot developer, AWS coordinator"
+            }
+          }
+        },
+        "o": {
+          "l": {
+            "d": {
+              "@": "Snekk \"developer\", Android developer, Android developer"
+            }
+          }
+        },
+        "p": {
+          "e": {
+            "r": {
+              "@": "Full low level stack, Scratch developer, Scratch developer"
+            }
+          }
+        }
+      },
+      "y": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Snekk \"developer\", AWS coordinator"
+            }
+          }
+        },
+        "e": {
+          "s": {
+            "@": "Full low level stack, Scratch developer, Brainf*ck developer"
+          }
+        }
+      },
+      "n": {
+        "k": {
+          "@": "8086 Assembler dev, Brainf*ck developer, 8086 Assembler dev, Full low level stack"
+        }
+      },
+      "m": {
+        "z": {
+          "a": {
+            "@": "Java \/ Java EE developer, Full web stack"
+          }
+        }
+      },
+      "s": {
+        "s": {
+          "a": {
+            "n": {
+              "@": "Scratch developer, Full low level stack, Full web stack, Swift developer"
+            }
+          }
+        }
+      },
+      "d": {
+        "a": {
+          "r": {
+            "@": "Brainf*ck dev and researcher, Full Skratch stack, member of KAF"
+          }
+        }
+      }
+    },
+    "o": {
+      "l": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Android developer, SQL dev"
+            }
+          }
+        }
+      },
+      "u": {
+        "s": {
+          "t": {
+            "o": {
+              "n": {
+                "@": "Full web stack, Snekk \"developer\", Snekk \"developer\", 8086 Assembler dev, AWS coordinator"
+              }
+            }
+          }
+        }
+      },
+      "w": {
+        "a": {
+          "r": {
+            "d": {
+              "@": "Snekk \"developer\", Android developer, Brainf*ck developer"
+            }
+          }
+        }
+      }
+    }
+  },
+  "C": {
+    "a": {
+      "r": {
+        "t": {
+          "e": {
+            "r": {
+              "@": "8086 Assembler dev, Brainf*ck developer, Swift developer"
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Java \/ Java EE developer, Discord bot developer, Scratch developer"
+            }
+          }
+        },
+        "l": {
+          "o": {
+            "s": {
+              "@": "Java \/ Java EE developer, Brainf*ck developer"
+            }
+          },
+          "@": "Java \/ Java EE developer, Android developer"
+        },
+        "m": {
+          "e": {
+            "l": {
+              "o": {
+                "@": "Scratch developer, Swift developer"
+              }
+            }
+          }
+        }
+      },
+      "l": {
+        "e": {
+          "b": {
+            "@": "Full low level stack, Full web stack, Android developer"
+          }
+        },
+        "v": {
+          "i": {
+            "n": {
+              "@": "Brainf*ck developer, Discord bot developer, Snekk \"developer\""
+            }
+          }
+        },
+        "l": {
+          "e": {
+            "n": {
+              "@": "Scratch developer"
+            }
+          },
+          "u": {
+            "m": {
+              "@": "Snekk \"developer\", Full low level stack, Android developer, 8086 Assembler dev, Swift developer"
+            }
+          },
+          "a": {
+            "n": {
+              "@": "Full web stack, Android developer, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "m": {
+        "e": {
+          "r": {
+            "o": {
+              "n": {
+                "@": "Full low level stack, SQL dev, AWS coordinator"
+              }
+            }
+          }
+        },
+        "d": {
+          "e": {
+            "n": {
+              "@": "Full low level stack, Swift developer"
+            }
+          },
+          "y": {
+            "n": {
+              "@": "Java \/ Java EE developer, 8086 Assembler dev, SQL dev, 8086 Assembler dev, Brainf*ck developer"
+            }
+          }
+        },
+        "i": {
+          "l": {
+            "o": {
+              "@": "C# \/ Xamarin developer, C# \/ Xamarin developer"
+            }
+          }
+        },
+        "r": {
+          "o": {
+            "n": {
+              "@": "C# \/ Xamarin developer, C# \/ Xamarin developer"
+            }
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "n": {
+            "@": "Swift developer, C# \/ Xamarin developer"
+          },
+          "@": "8086 Assembler dev, Scratch developer"
+        }
+      },
+      "y": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Full low level stack"
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "s": {
+        "h": {
+          "@": "Full low level stack, Full web stack"
+        },
+        "o": {
+          "n": {
+            "@": "Discord bot developer, Swift developer"
+          }
+        },
+        "e": {
+          "y": {
+            "@": "Java \/ Java EE developer, Brainf*ck developer, AWS coordinator"
+          },
+          "@": "AWS coordinator, 8086 Assembler dev, SQL dev",
+          "n": {
+            "@": "Discord bot developer, Swift developer"
+          }
+        },
+        "s": {
+          "i": {
+            "u": {
+              "s": {
+                "@": "SQL dev, Full web stack"
+              }
+            }
+          }
+        },
+        "t": {
+          "i": {
+            "e": {
+              "l": {
+                "@": "SQL dev, SQL dev"
+              }
+            }
+          }
+        },
+        "p": {
+          "i": {
+            "a": {
+              "n": {
+                "@": "Android developer, Discord bot developer, Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Brainf*ck developer, Brainf*ck developer"
+            }
+          }
+        },
+        "r": {
+          "o": {
+            "@": "Scratch developer"
+          }
+        },
+        "n": {
+          "@": "Snekk \"developer\", Full web stack"
+        }
+      },
+      "n": {
+        "n": {
+          "o": {
+            "n": {
+              "@": "Android developer, Android developer, Full web stack"
+            }
+          }
+        },
+        "a": {
+          "a": {
+            "n": {
+              "@": "Snekk \"developer\", Discord bot developer"
+            }
+          }
+        }
+      }
+    },
+    "h": {
+      "r": {
+        "i": {
+          "s": {
+            "t": {
+              "o": {
+                "p": {
+                  "h": {
+                    "e": {
+                      "r": {
+                        "@": "SQL dev, Brainf*ck developer"
+                      }
+                    }
+                  }
+                }
+              },
+              "i": {
+                "a": {
+                  "n": {
+                    "@": "AWS coordinator, Discord bot developer, Brainf*ck developer"
+                  }
+                }
+              }
+            },
+            "@": "Snekk \"developer\", Java \/ Java EE developer, Swift developer"
+          }
+        }
+      },
+      "a": {
+        "r": {
+          "l": {
+            "e": {
+              "s": {
+                "@": "Android developer"
+              }
+            },
+            "i": {
+              "e": {
+                "@": "Android developer, C# \/ Xamarin developer"
+              }
+            }
+          }
+        },
+        "s": {
+          "e": {
+            "@": "Discord bot developer, Java \/ Java EE developer"
+          }
+        },
+        "n": {
+          "c": {
+            "e": {
+              "@": "Scratch developer, Full web stack, 8086 Assembler dev"
+            }
+          },
+          "d": {
+            "l": {
+              "e": {
+                "r": {
+                  "@": "Brainf*ck developer"
+                }
+              }
+            }
+          },
+          "n": {
+            "i": {
+              "n": {
+                "g": {
+                  "@": "Discord bot developer, Android developer, 8086 Assembler dev"
+                }
+              }
+            }
+          }
+        },
+        "i": {
+          "m": {
+            "@": "Full low level stack, Brainf*ck developer, 8086 Assembler dev"
+          }
+        },
+        "d": {
+          "@": "Swift developer"
+        }
+      }
+    },
+    "o": {
+      "n": {
+        "n": {
+          "o": {
+            "r": {
+              "@": "Snekk \"developer\", Java \/ Java EE developer"
+            }
+          },
+          "e": {
+            "r": {
+              "@": "Full web stack, AWS coordinator, Full low level stack"
+            }
+          }
+        },
+        "o": {
+          "r": {
+            "@": "Full web stack, Full web stack"
+          }
+        },
+        "r": {
+          "a": {
+            "d": {
+              "@": "Scratch developer, SQL dev, Snekk \"developer\", AWS coordinator"
+            }
+          }
+        }
+      },
+      "l": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Discord bot developer, Discord bot developer, Android developer"
+            }
+          },
+          "@": "Full low level stack",
+          "e": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Android developer"
+            }
+          }
+        },
+        "e": {
+          "@": "Swift developer, Snekk \"developer\", Discord bot developer, Discord bot developer",
+          "m": {
+            "a": {
+              "n": {
+                "@": "Snekk \"developer\""
+              }
+            }
+          }
+        },
+        "i": {
+          "n": {
+            "@": "Swift developer, SQL dev, Full web stack"
+          }
+        },
+        "l": {
+          "i": {
+            "n": {
+              "@": "AWS coordinator"
+            }
+          }
+        },
+        "b": {
+          "y": {
+            "@": "Android developer, SQL dev"
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "C# \/ Xamarin developer, 8086 Assembler dev"
+            }
+          }
+        }
+      },
+      "o": {
+        "p": {
+          "e": {
+            "r": {
+              "@": "Scratch developer, Discord bot developer, Brainf*ck developer, Full low level stack, Full web stack"
+            }
+          }
+        }
+      },
+      "r": {
+        "b": {
+          "i": {
+            "n": {
+              "@": "SQL dev, Brainf*ck developer"
+            }
+          }
+        },
+        "e": {
+          "y": {
+            "@": "C# \/ Xamarin developer, Discord bot developer"
+          }
+        },
+        "y": {
+          "@": "Android developer, Full low level stack, Brainf*ck developer"
+        }
+      },
+      "d": {
+        "y": {
+          "@": "Full web stack, Full low level stack, Swift developer"
+        }
+      },
+      "h": {
+        "e": {
+          "n": {
+            "@": "Swift developer, Android developer, Full web stack"
+          }
+        }
+      },
+      "e": {
+        "n": {
+          "@": "Snekk \"developer\", SQL dev, Scratch developer, Android developer"
+        }
+      }
+    },
+    "l": {
+      "a": {
+        "y": {
+          "t": {
+            "o": {
+              "n": {
+                "@": "AWS coordinator, C# \/ Xamarin developer, Brainf*ck developer, Java \/ Java EE developer"
+              }
+            }
+          },
+          "@": "Full low level stack, Snekk \"developer\", Snekk \"developer\", Snekk \"developer\""
+        },
+        "r": {
+          "k": {
+            "@": "Full web stack, 8086 Assembler dev, Full web stack"
+          }
+        }
+      },
+      "y": {
+        "d": {
+          "e": {
+            "@": "Swift developer, Brainf*ck developer"
+          }
+        }
+      }
+    },
+    "r": {
+      "i": {
+        "s": {
+          "t": {
+            "i": {
+              "a": {
+                "n": {
+                  "@": "AWS coordinator",
+                  "o": {
+                    "@": "Full web stack, Scratch developer, AWS coordinator"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "u": {
+        "z": {
+          "@": "SQL dev, Swift developer, AWS coordinator, AWS coordinator"
+        }
+      },
+      "o": {
+        "s": {
+          "b": {
+            "y": {
+              "@": "Java \/ Java EE developer, Swift developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "e": {
+        "w": {
+          "@": "Scratch developer, Full web stack"
+        }
+      },
+      "a": {
+        "i": {
+          "g": {
+            "@": "AWS coordinator, Android developer, Brainf*ck developer, 8086 Assembler dev"
+          }
+        }
+      }
+    },
+    "e": {
+      "s": {
+        "a": {
+          "r": {
+            "@": "Full low level stack"
+          }
+        }
+      },
+      "d": {
+        "r": {
+          "i": {
+            "c": {
+              "@": "Snekk \"developer\", SQL dev"
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "r": {
+        "u": {
+          "s": {
+            "@": "8086 Assembler dev, SQL dev, Java \/ Java EE developer"
+          }
+        }
+      }
+    },
+    "u": {
+      "l": {
+        "l": {
+          "e": {
+            "n": {
+              "@": "Android developer, Discord bot developer, Full low level stack, Full low level stack"
+            }
+          }
+        }
+      },
+      "r": {
+        "t": {
+          "i": {
+            "s": {
+              "@": "Full low level stack, Brainf*ck developer"
+            }
+          }
+        }
+      }
+    }
+  },
+  "G": {
+    "a": {
+      "b": {
+        "r": {
+          "i": {
+            "e": {
+              "l": {
+                "@": "Scratch developer, 8086 Assembler dev, Swift developer, 8086 Assembler dev"
+              }
+            }
+          }
+        }
+      },
+      "v": {
+        "i": {
+          "n": {
+            "@": "Android developer, 8086 Assembler dev, Brainf*ck developer"
+          }
+        }
+      },
+      "e": {
+        "l": {
+          "@": "Full web stack, Discord bot developer, Android developer, Android developer"
+        }
+      },
+      "r": {
+        "r": {
+          "e": {
+            "t": {
+              "t": {
+                "@": "Discord bot developer"
+              }
+            }
+          }
+        },
+        "y": {
+          "@": "Discord bot developer"
+        }
+      },
+      "g": {
+        "e": {
+          "@": "SQL dev, Discord bot developer, Full low level stack"
+        }
+      },
+      "n": {
+        "n": {
+          "o": {
+            "n": {
+              "@": "AWS coordinator, SQL dev, Full web stack, Scratch developer"
+            }
+          }
+        }
+      },
+      "t": {
+        "l": {
+          "i": {
+            "n": {
+              "@": "Full web stack, AWS coordinator"
+            }
+          }
+        }
+      }
+    },
+    "r": {
+      "a": {
+        "y": {
+          "s": {
+            "o": {
+              "n": {
+                "@": "AWS coordinator, C# \/ Xamarin developer, Full web stack, Java \/ Java EE developer"
+              }
+            },
+            "e": {
+              "n": {
+                "@": "SQL dev"
+              }
+            }
+          }
+        },
+        "n": {
+          "t": {
+            "@": "SQL dev, Full low level stack, AWS coordinator, 8086 Assembler dev"
+          }
+        },
+        "h": {
+          "a": {
+            "m": {
+              "@": "Full low level stack, Java \/ Java EE developer, Scratch developer"
+            }
+          }
+        },
+        "d": {
+          "y": {
+            "@": "Swift developer, Discord bot developer, SQL dev"
+          }
+        }
+      },
+      "e": {
+        "y": {
+          "s": {
+            "o": {
+              "n": {
+                "@": "AWS coordinator, SQL dev"
+              }
+            },
+            "e": {
+              "n": {
+                "@": "C# \/ Xamarin developer, Android developer, Full web stack, Full web stack"
+              }
+            }
+          },
+          "@": "Discord bot developer, SQL dev"
+        },
+        "g": {
+          "o": {
+            "r": {
+              "y": {
+                "@": "Snekk \"developer\", SQL dev, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "f": {
+          "f": {
+            "i": {
+              "n": {
+                "@": "Full low level stack, Snekk \"developer\""
+              }
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "o": {
+        "r": {
+          "g": {
+            "e": {
+              "@": "Java \/ Java EE developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "r": {
+        "a": {
+          "r": {
+            "d": {
+              "o": {
+                "@": "8086 Assembler dev, 8086 Assembler dev, Discord bot developer"
+              }
+            }
+          },
+          "l": {
+            "d": {
+              "@": "8086 Assembler dev, Snekk \"developer\", Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    },
+    "i": {
+      "o": {
+        "v": {
+          "a": {
+            "n": {
+              "n": {
+                "i": {
+                  "@": "Brainf*ck developer, Brainf*ck developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "o": {
+            "n": {
+              "@": "Swift developer, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "n": {
+            "i": {
+              "@": "Full web stack, Full web stack"
+            }
+          },
+          "l": {
+            "u": {
+              "c": {
+                "a": {
+                  "@": "8086 Assembler dev, Java \/ Java EE developer"
+                }
+              }
+            }
+          },
+          "c": {
+            "a": {
+              "r": {
+                "l": {
+                  "o": {
+                    "@": "C# \/ Xamarin developer, Full low level stack, AWS coordinator"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "b": {
+        "s": {
+          "o": {
+            "n": {
+              "@": "Snekk \"developer\", Brainf*ck developer"
+            }
+          }
+        }
+      }
+    },
+    "u": {
+      "n": {
+        "n": {
+          "e": {
+            "r": {
+              "@": "Scratch developer"
+            }
+          },
+          "a": {
+            "r": {
+              "@": "SQL dev, Full low level stack"
+            }
+          }
+        }
+      },
+      "s": {
+        "t": {
+          "a": {
+            "v": {
+              "o": {
+                "@": "SQL dev"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "l": {
+          "l": {
+            "e": {
+              "r": {
+                "m": {
+                  "o": {
+                    "@": "Scratch developer, AWS coordinator, C# \/ Xamarin developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "r": {
+        "d": {
+          "o": {
+            "n": {
+              "@": "Snekk \"developer\", SQL dev"
+            }
+          }
+        }
+      }
+    }
+  },
+  "I": {
+    "s": {
+      "a": {
+        "a": {
+          "c": {
+            "@": "Java \/ Java EE developer, Android developer, Full low level stack, Scratch developer"
+          }
+        },
+        "i": {
+          "a": {
+            "h": {
+              "@": "C# \/ Xamarin developer"
+            },
+            "s": {
+              "@": "Brainf*ck developer, Discord bot developer, AWS coordinator"
+            }
+          }
+        }
+      },
+      "r": {
+        "a": {
+          "e": {
+            "l": {
+              "@": "Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "m": {
+        "a": {
+          "e": {
+            "l": {
+              "@": "Android developer, Scratch developer"
+            }
+          }
+        }
+      },
+      "s": {
+        "a": {
+          "c": {
+            "@": "8086 Assembler dev, Snekk \"developer\""
+          }
+        }
+      },
+      "h": {
+        "a": {
+          "a": {
+            "n": {
+              "@": "Snekk \"developer\", 8086 Assembler dev, Brainf*ck developer"
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "n": {
+        "@": "8086 Assembler dev, Full web stack, Full web stack"
+      }
+    },
+    "v": {
+      "a": {
+        "n": {
+          "@": "Discord bot developer, AWS coordinator, 8086 Assembler dev, Android developer"
+        }
+      }
+    },
+    "k": {
+      "e": {
+        "r": {
+          "@": "Java \/ Java EE developer, Discord bot developer, Snekk \"developer\""
+        }
+      }
+    },
+    "b": {
+      "r": {
+        "a": {
+          "h": {
+            "i": {
+              "m": {
+                "@": "SQL dev, AWS coordinator"
+              }
+            }
+          }
+        }
+      }
+    },
+    "z": {
+      "a": {
+        "i": {
+          "a": {
+            "h": {
+              "@": "AWS coordinator, Scratch developer, Full low level stack"
+            }
+          }
+        }
+      }
+    },
+    "g": {
+      "n": {
+        "a": {
+          "c": {
+            "i": {
+              "o": {
+                "@": "Android developer, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "r": {
+      "a": {
+        "@": "8086 Assembler dev, Android developer"
+      }
+    }
+  },
+  "R": {
+    "y": {
+      "a": {
+        "n": {
+          "@": "Snekk \"developer\", Full web stack"
+        }
+      },
+      "d": {
+        "e": {
+          "r": {
+            "@": "AWS coordinator, Java \/ Java EE developer, Discord bot developer, Discord bot developer"
+          }
+        }
+      },
+      "k": {
+        "e": {
+          "r": {
+            "@": "Java \/ Java EE developer, Brainf*ck developer, Discord bot developer"
+          }
+        }
+      },
+      "l": {
+        "a": {
+          "n": {
+            "@": "Snekk \"developer\", AWS coordinator",
+            "d": {
+              "@": "C# \/ Xamarin developer, 8086 Assembler dev, Swift developer, Full web stack, Android developer"
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "b": {
+        "e": {
+          "r": {
+            "t": {
+              "@": "Scratch developer, Full web stack, Full web stack, Full web stack",
+              "o": {
+                "@": "Android developer, Brainf*ck developer"
+              }
+            }
+          }
+        }
+      },
+      "m": {
+        "a": {
+          "n": {
+            "@": "Android developer"
+          }
+        },
+        "e": {
+          "o": {
+            "@": "Full low level stack, AWS coordinator, Android developer"
+          }
+        }
+      },
+      "w": {
+        "a": {
+          "n": {
+            "@": "Swift developer, Discord bot developer, Full low level stack"
+          }
+        },
+        "e": {
+          "n": {
+            "@": "Discord bot developer, 8086 Assembler dev"
+          }
+        }
+      },
+      "n": {
+        "a": {
+          "n": {
+            "@": "Brainf*ck developer"
+          },
+          "l": {
+            "d": {
+              "@": "Swift developer"
+            }
+          }
+        },
+        "i": {
+          "n": {
+            "@": "Android developer, Discord bot developer, Full web stack"
+          }
+        },
+        "n": {
+          "i": {
+            "e": {
+              "@": "AWS coordinator, Android developer"
+            }
+          }
+        }
+      },
+      "r": {
+        "y": {
+          "@": "Full web stack, Full low level stack"
+        }
+      },
+      "c": {
+        "c": {
+          "o": {
+            "@": "AWS coordinator, Full low level stack, Java \/ Java EE developer"
+          }
+        },
+        "k": {
+          "y": {
+            "@": "SQL dev"
+          }
+        }
+      },
+      "y": {
+        "c": {
+          "e": {
+            "@": "AWS coordinator"
+          }
+        },
+        "a": {
+          "l": {
+            "@": "Full low level stack, AWS coordinator"
+          }
+        },
+        "@": "Full low level stack, Swift developer, Full web stack"
+      },
+      "d": {
+        "r": {
+          "i": {
+            "g": {
+              "o": {
+                "@": "Scratch developer"
+              }
+            }
+          }
+        },
+        "n": {
+          "e": {
+            "y": {
+              "@": "Scratch developer, Discord bot developer, Android developer"
+            }
+          }
+        }
+      },
+      "l": {
+        "a": {
+          "n": {
+            "d": {
+              "@": "Discord bot developer, AWS coordinator, Java \/ Java EE developer, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "g": {
+        "e": {
+          "r": {
+            "@": "8086 Assembler dev, AWS coordinator, Java \/ Java EE developer"
+          },
+          "l": {
+            "i": {
+              "o": {
+                "@": "Discord bot developer, Swift developer"
+              }
+            }
+          }
+        }
+      },
+      "h": {
+        "a": {
+          "n": {
+            "@": "Java \/ Java EE developer, Brainf*ck developer, AWS coordinator, AWS coordinator"
+          }
+        }
+      }
+    },
+    "i": {
+      "c": {
+        "h": {
+          "a": {
+            "r": {
+              "d": {
+                "@": "Discord bot developer, Full low level stack"
+              }
+            }
+          }
+        },
+        "a": {
+          "r": {
+            "d": {
+              "o": {
+                "@": "Swift developer, Swift developer"
+              }
+            }
+          }
+        },
+        "k": {
+          "y": {
+            "@": "Android developer, Brainf*ck developer, Swift developer, SQL dev, Discord bot developer"
+          }
+        }
+      },
+      "v": {
+        "e": {
+          "r": {
+            "@": "C# \/ Xamarin developer, 8086 Assembler dev, Snekk \"developer\", Android developer"
+          }
+        }
+      },
+      "l": {
+        "e": {
+          "y": {
+            "@": "Android developer, Java \/ Java EE developer, Scratch developer, Full web stack"
+          }
+        }
+      },
+      "d": {
+        "g": {
+          "e": {
+            "@": "Snekk \"developer\""
+          }
+        }
+      }
+    },
+    "h": {
+      "e": {
+        "t": {
+          "t": {
+            "@": "Full web stack"
+          }
+        }
+      },
+      "y": {
+        "s": {
+          "@": "Full low level stack, Discord bot developer, Scratch developer, C# \/ Xamarin developer"
+        }
+      }
+    },
+    "e": {
+      "m": {
+        "i": {
+          "n": {
+            "g": {
+              "t": {
+                "o": {
+                  "n": {
+                    "@": "SQL dev, Java \/ Java EE developer, Full low level stack, 8086 Assembler dev"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "y": {
+          "@": "Full low level stack, Scratch developer, Discord bot developer"
+        }
+      },
+      "i": {
+        "d": {
+          "@": "Full low level stack, Snekk \"developer\", Scratch developer"
+        },
+        "g": {
+          "n": {
+            "@": "C# \/ Xamarin developer, Discord bot developer, Android developer, 8086 Assembler dev"
+          }
+        }
+      },
+      "e": {
+        "d": {
+          "@": "Brainf*ck developer, 8086 Assembler dev"
+        },
+        "c": {
+          "e": {
+            "@": "Android developer, Full low level stack"
+          }
+        },
+        "s": {
+          "e": {
+            "@": "Discord bot developer, Full web stack, Snekk \"developer\", Android developer"
+          }
+        }
+      },
+      "x": {
+        "@": "SQL dev, Scratch developer, Swift developer"
+      },
+      "y": {
+        "a": {
+          "n": {
+            "s": {
+              "h": {
+                "@": "Full web stack, Swift developer"
+              }
+            }
+          }
+        },
+        "@": "Brainf*ck developer, Full web stack, Java \/ Java EE developer, 8086 Assembler dev"
+      },
+      "g": {
+        "i": {
+          "n": {
+            "a": {
+              "l": {
+                "d": {
+                  "@": "Discord bot developer, Full web stack, Full low level stack, Discord bot developer, Android developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "n": {
+        "e": {
+          "@": "AWS coordinator, C# \/ Xamarin developer, Snekk \"developer\", Full low level stack"
+        }
+      },
+      "u": {
+        "b": {
+          "e": {
+            "n": {
+              "@": "Snekk \"developer\", SQL dev, Android developer"
+            }
+          }
+        }
+      },
+      "a": {
+        "g": {
+          "a": {
+            "n": {
+              "@": "8086 Assembler dev, Discord bot developer, Swift developer"
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "f": {
+        "a": {
+          "e": {
+            "l": {
+              "@": "Java \/ Java EE developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "y": {
+        "m": {
+          "o": {
+            "n": {
+              "d": {
+                "@": "8086 Assembler dev"
+              }
+            }
+          }
+        },
+        "a": {
+          "n": {
+            "@": "Android developer, 8086 Assembler dev, Full low level stack"
+          }
+        },
+        "l": {
+          "a": {
+            "n": {
+              "@": "AWS coordinator, Swift developer, Java \/ Java EE developer, Java \/ Java EE developer"
+            }
+          }
+        },
+        "d": {
+          "e": {
+            "n": {
+              "@": "AWS coordinator, Full low level stack, Java \/ Java EE developer, Swift developer"
+            }
+          }
+        },
+        "@": "Discord bot developer, 8086 Assembler dev, Swift developer, Discord bot developer"
+      },
+      "i": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Brainf*ck developer, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "u": {
+        "l": {
+          "@": "SQL dev"
+        }
+      },
+      "p": {
+        "h": {
+          "a": {
+            "e": {
+              "l": {
+                "@": "Android developer, Java \/ Java EE developer, Snekk \"developer\""
+              }
+            }
+          }
+        }
+      },
+      "m": {
+        "o": {
+          "n": {
+            "@": "Snekk \"developer\", AWS coordinator, Discord bot developer, C# \/ Xamarin developer"
+          }
+        },
+        "i": {
+          "r": {
+            "o": {
+              "@": "C# \/ Xamarin developer, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "n": {
+        "d": {
+          "y": {
+            "@": "Java \/ Java EE developer, Swift developer, Discord bot developer, AWS coordinator"
+          },
+          "a": {
+            "l": {
+              "l": {
+                "@": "SQL dev"
+              }
+            }
+          }
+        }
+      },
+      "s": {
+        "h": {
+          "a": {
+            "d": {
+              "@": "Java \/ Java EE developer, Swift developer"
+            }
+          }
+        }
+      }
+    },
+    "u": {
+      "s": {
+        "s": {
+          "e": {
+            "l": {
+              "l": {
+                "@": "SQL dev, C# \/ Xamarin developer, Brainf*ck developer, Brainf*ck developer, 8086 Assembler dev"
+              }
+            }
+          }
+        }
+      },
+      "b": {
+        "e": {
+          "n": {
+            "@": "Java \/ Java EE developer, Full web stack"
+          }
+        }
+      },
+      "d": {
+        "y": {
+          "@": "Snekk \"developer\", Snekk \"developer\""
+        }
+      }
+    }
+  },
+  "T": {
+    "h": {
+      "o": {
+        "m": {
+          "a": {
+            "s": {
+              "@": "Android developer, Full low level stack, Snekk \"developer\", Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "e": {
+        "o": {
+          "d": {
+            "o": {
+              "r": {
+                "e": {
+                  "@": "Android developer, Swift developer, Java \/ Java EE developer, Scratch developer"
+                }
+              }
+            }
+          },
+          "@": "Full low level stack, C# \/ Xamarin developer, AWS coordinator, Brainf*ck developer"
+        }
+      },
+      "i": {
+        "a": {
+          "g": {
+            "o": {
+              "@": "AWS coordinator, Android developer"
+            }
+          }
+        }
+      },
+      "a": {
+        "d": {
+          "d": {
+            "e": {
+              "u": {
+                "s": {
+                  "@": "AWS coordinator, Java \/ Java EE developer, SQL dev"
+                }
+              }
+            }
+          }
+        },
+        "t": {
+          "c": {
+            "h": {
+              "e": {
+                "r": {
+                  "@": "C# \/ Xamarin developer, 8086 Assembler dev"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "l": {
+        "e": {
+          "r": {
+            "@": "C# \/ Xamarin developer, 8086 Assembler dev, Full web stack"
+          }
+        }
+      },
+      "s": {
+        "o": {
+          "n": {
+            "@": "Discord bot developer, 8086 Assembler dev"
+          }
+        }
+      },
+      "@": "Snekk \"developer\", Full low level stack, SQL dev"
+    },
+    "r": {
+      "i": {
+        "s": {
+          "t": {
+            "a": {
+              "n": {
+                "@": "Java \/ Java EE developer"
+              }
+            },
+            "e": {
+              "n": {
+                "@": "Full web stack, C# \/ Xamarin developer, Scratch developer"
+              }
+            },
+            "i": {
+              "a": {
+                "n": {
+                  "@": "AWS coordinator, Discord bot developer"
+                }
+              }
+            }
+          }
+        },
+        "p": {
+          "p": {
+            "@": "Brainf*ck developer, Android developer, SQL dev"
+          }
+        }
+      },
+      "a": {
+        "v": {
+          "i": {
+            "s": {
+              "@": "Full low level stack, Snekk \"developer\", SQL dev, Android developer"
+            }
+          }
+        },
+        "c": {
+          "e": {
+            "@": "Discord bot developer, Swift developer, Full web stack, Discord bot developer"
+          }
+        }
+      },
+      "o": {
+        "y": {
+          "@": "SQL dev"
+        }
+      },
+      "e": {
+        "v": {
+          "o": {
+            "r": {
+              "@": "Swift developer"
+            }
+          }
+        },
+        "n": {
+          "t": {
+            "o": {
+              "n": {
+                "@": "8086 Assembler dev, Android developer"
+              }
+            },
+            "@": "Scratch developer"
+          }
+        },
+        "y": {
+          "@": "Brainf*ck developer, Full web stack, 8086 Assembler dev"
+        }
+      }
+    },
+    "i": {
+      "m": {
+        "o": {
+          "t": {
+            "h": {
+              "y": {
+                "@": "C# \/ Xamarin developer, Brainf*ck developer, Swift developer"
+              }
+            }
+          }
+        }
+      },
+      "t": {
+        "u": {
+          "s": {
+            "@": "Full web stack, Brainf*ck developer, C# \/ Xamarin developer, AWS coordinator"
+          }
+        },
+        "a": {
+          "n": {
+            "@": "Full web stack, Brainf*ck developer, Full web stack, SQL dev"
+          }
+        }
+      }
+    },
+    "u": {
+      "c": {
+        "k": {
+          "e": {
+            "r": {
+              "@": "Full low level stack"
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "n": {
+        "n": {
+          "e": {
+            "r": {
+              "@": "Full web stack, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "t": {
+        "e": {
+          "@": "Full low level stack, Swift developer"
+        },
+        "u": {
+          "m": {
+            "@": "C# \/ Xamarin developer, 8086 Assembler dev, SQL dev"
+          }
+        }
+      },
+      "y": {
+        "l": {
+          "o": {
+            "r": {
+              "@": "AWS coordinator, Full low level stack, Full low level stack, Scratch developer, 8086 Assembler dev"
+            }
+          }
+        }
+      },
+      "l": {
+        "o": {
+          "n": {
+            "@": "Brainf*ck developer, Scratch developer, Scratch developer, Java \/ Java EE developer"
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "o": {
+            "@": "Java \/ Java EE developer, Scratch developer, Java \/ Java EE developer"
+          }
+        }
+      }
+    },
+    "o": {
+      "b": {
+        "i": {
+          "a": {
+            "s": {
+              "@": "Brainf*ck developer, Full low level stack, AWS coordinator, Java \/ Java EE developer"
+            }
+          }
+        },
+        "y": {
+          "@": "Full low level stack, Full web stack, 8086 Assembler dev, Snekk \"developer\", Brainf*ck developer"
+        }
+      },
+      "n": {
+        "y": {
+          "@": "Snekk \"developer\", Brainf*ck developer"
+        }
+      },
+      "m": {
+        "a": {
+          "s": {
+            "@": "Android developer, Snekk \"developer\""
+          }
+        },
+        "m": {
+          "y": {
+            "@": "Discord bot developer, Full web stack, Android developer"
+          }
+        }
+      }
+    },
+    "e": {
+      "r": {
+        "r": {
+          "y": {
+            "@": "AWS coordinator"
+          },
+          "a": {
+            "n": {
+              "c": {
+                "e": {
+                  "@": "Full web stack, C# \/ Xamarin developer, Full web stack"
+                }
+              }
+            }
+          },
+          "e": {
+            "n": {
+              "c": {
+                "e": {
+                  "@": "Full web stack"
+                }
+              }
+            },
+            "l": {
+              "l": {
+                "@": "Brainf*ck developer"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "X": {
+    "a": {
+      "v": {
+        "i": {
+          "e": {
+            "r": {
+              "@": "Scratch developer, Scratch developer"
+            }
+          }
+        }
+      },
+      "n": {
+        "d": {
+          "e": {
+            "r": {
+              "@": "Brainf*ck developer, C# \/ Xamarin developer, AWS coordinator, Discord bot developer"
+            }
+          }
+        }
+      }
+    },
+    "z": {
+      "a": {
+        "v": {
+          "i": {
+            "e": {
+              "r": {
+                "@": "C# \/ Xamarin developer, Swift developer, Full low level stack"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "P": {
+    "a": {
+      "r": {
+        "k": {
+          "e": {
+            "r": {
+              "@": "8086 Assembler dev, Brainf*ck developer"
+            }
+          }
+        }
+      },
+      "t": {
+        "r": {
+          "i": {
+            "c": {
+              "k": {
+                "@": "AWS coordinator"
+              }
+            }
+          }
+        }
+      },
+      "x": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Scratch developer, Brainf*ck developer, 8086 Assembler dev"
+            }
+          }
+        }
+      },
+      "u": {
+        "l": {
+          "@": "Brainf*ck developer, Discord bot developer"
+        }
+      },
+      "b": {
+        "l": {
+          "o": {
+            "@": "Java \/ Java EE developer, C# \/ Xamarin developer, Swift developer, AWS coordinator"
+          }
+        }
+      },
+      "y": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Full web stack, Discord bot developer, Discord bot developer, Brainf*ck developer"
+            }
+          }
+        }
+      }
+    },
+    "r": {
+      "e": {
+        "s": {
+          "t": {
+            "o": {
+              "n": {
+                "@": "SQL dev, Java \/ Java EE developer, Discord bot developer, Scratch developer, 8086 Assembler dev"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "n": {
+          "c": {
+            "e": {
+              "@": "Snekk \"developer\", 8086 Assembler dev, 8086 Assembler dev, 8086 Assembler dev",
+              "t": {
+                "o": {
+                  "n": {
+                    "@": "Brainf*ck developer, Full web stack, Brainf*ck developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "t": {
+        "e": {
+          "r": {
+            "@": "Snekk \"developer\", Scratch developer"
+          }
+        }
+      },
+      "y": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Android developer, Full web stack, AWS coordinator, Full web stack"
+            }
+          }
+        }
+      },
+      "d": {
+        "r": {
+          "o": {
+            "@": "Java \/ Java EE developer, Full low level stack, Discord bot developer"
+          }
+        }
+      }
+    },
+    "h": {
+      "o": {
+        "e": {
+          "n": {
+            "i": {
+              "x": {
+                "@": "Android developer, Android developer"
+              }
+            }
+          }
+        }
+      },
+      "i": {
+        "l": {
+          "i": {
+            "p": {
+              "@": "Full low level stack, C# \/ Xamarin developer"
+            }
+          },
+          "l": {
+            "i": {
+              "p": {
+                "@": "Swift developer, Full low level stack, Swift developer"
+              }
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "r": {
+        "t": {
+          "e": {
+            "r": {
+              "@": "Full web stack, Full low level stack, Full web stack, Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    },
+    "i": {
+      "e": {
+        "r": {
+          "c": {
+            "e": {
+              "@": "8086 Assembler dev, Full low level stack"
+            }
+          }
+        }
+      }
+    }
+  },
+  "K": {
+    "a": {
+      "y": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Snekk \"developer\""
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Full low level stack, Java \/ Java EE developer, 8086 Assembler dev, Android developer"
+            }
+          },
+          "e": {
+            "n": {
+              "@": "Android developer, AWS coordinator, Java \/ Java EE developer"
+            }
+          }
+        }
+      },
+      "i": {
+        "@": "Full web stack, Snekk \"developer\", Snekk \"developer\"",
+        "d": {
+          "e": {
+            "n": {
+              "@": "Java \/ Java EE developer, Discord bot developer"
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Swift developer, Full web stack, Full low level stack, Brainf*ck developer"
+            }
+          },
+          "e": {
+            "r": {
+              "@": "Full low level stack, Java \/ Java EE developer, Discord bot developer, Full web stack"
+            }
+          }
+        },
+        "r": {
+          "o": {
+            "@": "Full low level stack, Scratch developer"
+          }
+        }
+      },
+      "r": {
+        "t": {
+          "e": {
+            "r": {
+              "@": "Brainf*ck developer, Full low level stack, Full web stack, Full web stack"
+            }
+          }
+        },
+        "s": {
+          "o": {
+            "n": {
+              "@": "Full low level stack, Full web stack"
+            }
+          }
+        },
+        "e": {
+          "e": {
+            "m": {
+              "@": "Discord bot developer, SQL dev, Android developer"
+            }
+          }
+        }
+      },
+      "l": {
+        "e": {
+          "b": {
+            "@": "Java \/ Java EE developer, Full web stack, Discord bot developer"
+          },
+          "l": {
+            "@": "Full low level stack"
+          }
+        }
+      },
+      "d": {
+        "e": {
+          "n": {
+            "@": "Scratch developer, Full low level stack"
+          },
+          "@": "Java \/ Java EE developer, Full low level stack, Java \/ Java EE developer, Java \/ Java EE developer"
+        }
+      },
+      "m": {
+        "e": {
+          "r": {
+            "o": {
+              "n": {
+                "@": "C# \/ Xamarin developer, Full web stack"
+              }
+            }
+          }
+        },
+        "d": {
+          "e": {
+            "n": {
+              "@": "AWS coordinator, 8086 Assembler dev, Snekk \"developer\""
+            }
+          }
+        },
+        "a": {
+          "r": {
+            "i": {
+              "@": "Android developer, AWS coordinator, Full web stack"
+            }
+          }
+        },
+        "r": {
+          "y": {
+            "n": {
+              "@": "Brainf*ck developer, SQL dev"
+            }
+          }
+        }
+      },
+      "n": {
+        "e": {
+          "@": "Discord bot developer, SQL dev, Android developer, Discord bot developer"
+        },
+        "n": {
+          "o": {
+            "n": {
+              "@": "Swift developer"
+            }
+          }
+        }
+      },
+      "s": {
+        "h": {
+          "@": "SQL dev",
+          "t": {
+            "o": {
+              "n": {
+                "@": "Snekk \"developer\", Swift developer, Snekk \"developer\""
+              }
+            }
+          }
+        },
+        "o": {
+          "n": {
+            "@": "Full web stack, 8086 Assembler dev, Brainf*ck developer, Brainf*ck developer"
+          }
+        },
+        "e": {
+          "n": {
+            "@": "Full low level stack, Full low level stack"
+          },
+          "@": "Snekk \"developer\", Snekk \"developer\""
+        }
+      },
+      "c": {
+        "e": {
+          "@": "SQL dev, Discord bot developer, Snekk \"developer\""
+        }
+      }
+    },
+    "e": {
+      "v": {
+        "i": {
+          "n": {
+            "@": "Brainf*ck developer, Scratch developer, Swift developer, Snekk \"developer\""
+          }
+        }
+      },
+      "n": {
+        "n": {
+          "e": {
+            "t": {
+              "h": {
+                "@": "Android developer, Full low level stack, Full web stack"
+              }
+            }
+          },
+          "y": {
+            "@": "Snekk \"developer\", Brainf*ck developer, SQL dev"
+          }
+        },
+        "d": {
+          "r": {
+            "i": {
+              "c": {
+                "k": {
+                  "@": "Discord bot developer"
+                }
+              }
+            }
+          },
+          "a": {
+            "l": {
+              "l": {
+                "@": "Brainf*ck developer, Java \/ Java EE developer"
+              }
+            }
+          }
+        }
+      },
+      "e": {
+        "g": {
+          "a": {
+            "n": {
+              "@": "8086 Assembler dev, SQL dev, AWS coordinator, Full low level stack"
+            }
+          }
+        },
+        "n": {
+          "a": {
+            "n": {
+              "@": "Java \/ Java EE developer, Discord bot developer"
+            }
+          }
+        }
+      },
+      "i": {
+        "t": {
+          "h": {
+            "@": "Full low level stack"
+          }
+        }
+      },
+      "l": {
+        "l": {
+          "a": {
+            "n": {
+              "@": "Java \/ Java EE developer, Discord bot developer"
+            }
+          },
+          "e": {
+            "n": {
+              "@": "Full web stack, AWS coordinator, AWS coordinator"
+            }
+          }
+        },
+        "v": {
+          "i": {
+            "n": {
+              "@": "Full web stack, AWS coordinator"
+            }
+          }
+        }
+      },
+      "a": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "Discord bot developer, AWS coordinator"
+            }
+          }
+        },
+        "g": {
+          "a": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Scratch developer, Swift developer, Discord bot developer"
+            }
+          }
+        },
+        "n": {
+          "u": {
+            "@": "Full low level stack"
+          }
+        }
+      }
+    },
+    "i": {
+      "n": {
+        "g": {
+          "s": {
+            "t": {
+              "o": {
+                "n": {
+                  "@": "Scratch developer"
+                }
+              }
+            },
+            "l": {
+              "e": {
+                "y": {
+                  "@": "Scratch developer, Discord bot developer, Java \/ Java EE developer, C# \/ Xamarin developer, Scratch developer"
+                }
+              }
+            }
+          },
+          "@": "SQL dev"
+        }
+      },
+      "l": {
+        "l": {
+          "i": {
+            "a": {
+              "n": {
+                "@": "Swift developer"
+              }
+            }
+          }
+        }
+      },
+      "a": {
+        "n": {
+          "@": "Scratch developer, Brainf*ck developer"
+        }
+      },
+      "e": {
+        "r": {
+          "a": {
+            "n": {
+              "@": "Discord bot developer, Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "l": {
+        "e": {
+          "@": "Brainf*ck developer, Snekk \"developer\", C# \/ Xamarin developer",
+          "r": {
+            "@": "8086 Assembler dev, SQL dev"
+          },
+          "n": {
+            "@": "AWS coordinator, C# \/ Xamarin developer"
+          }
+        },
+        "a": {
+          "n": {
+            "@": "AWS coordinator, Scratch developer, Brainf*ck developer, Discord bot developer"
+          }
+        }
+      },
+      "r": {
+        "i": {
+          "e": {
+            "@": "Brainf*ck developer, SQL dev"
+          }
+        },
+        "e": {
+          "e": {
+            "@": "Full low level stack, Swift developer, Swift developer"
+          }
+        }
+      },
+      "s": {
+        "o": {
+          "n": {
+            "@": "Full low level stack, Full web stack, Full low level stack"
+          }
+        }
+      },
+      "e": {
+        "@": "Swift developer, Snekk \"developer\""
+      },
+      "n": {
+        "g": {
+          "@": "Scratch developer, Brainf*ck developer, Scratch developer"
+        }
+      }
+    },
+    "n": {
+      "o": {
+        "x": {
+          "@": "Discord bot developer, Discord bot developer"
+        }
+      }
+    },
+    "h": {
+      "a": {
+        "l": {
+          "i": {
+            "l": {
+              "@": "Brainf*ck developer, C# \/ Xamarin developer, Full low level stack"
+            },
+            "d": {
+              "@": "Full low level stack, C# \/ Xamarin developer, Snekk \"developer\", SQL dev"
+            }
+          }
+        },
+        "r": {
+          "i": {
+            "@": "Snekk \"developer\", Android developer, Scratch developer"
+          }
+        }
+      }
+    },
+    "o": {
+      "l": {
+        "t": {
+          "o": {
+            "n": {
+              "@": "C# \/ Xamarin developer"
+            }
+          },
+          "e": {
+            "n": {
+              "@": "Full web stack, Java \/ Java EE developer"
+            }
+          }
+        },
+        "e": {
+          "@": "Brainf*ck developer, Brainf*ck developer, Swift developer"
+        }
+      },
+      "b": {
+        "e": {
+          "@": "Brainf*ck developer, Java \/ Java EE developer, SQL dev, Scratch developer, AWS coordinator"
+        }
+      },
+      "r": {
+        "b": {
+          "i": {
+            "n": {
+              "@": "8086 Assembler dev"
+            }
+          }
+        }
+      },
+      "h": {
+        "e": {
+          "n": {
+            "@": "Brainf*ck developer, Swift developer, Scratch developer"
+          }
+        }
+      },
+      "d": {
+        "y": {
+          "@": "AWS coordinator"
+        },
+        "a": {
+          "@": "Discord bot developer, Brainf*ck developer"
+        }
+      },
+      "n": {
+        "n": {
+          "o": {
+            "r": {
+              "@": "Discord bot developer, Scratch developer, Snekk \"developer\", Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "a": {
+        "@": "Scratch developer, Full low level stack, Android developer"
+      }
+    },
+    "r": {
+      "i": {
+        "s": {
+          "t": {
+            "o": {
+              "p": {
+                "h": {
+                  "e": {
+                    "r": {
+                      "@": "Brainf*ck developer, C# \/ Xamarin developer, Snekk \"developer\""
+                    }
+                  }
+                }
+              }
+            },
+            "i": {
+              "a": {
+                "n": {
+                  "@": "Snekk \"developer\""
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "A": {
+      "F": {
+        "{": {
+          "1": {
+            "2": {
+              "0": {
+                "9": {
+                  "8": {
+                    "4": {
+                      "2": {
+                        "1": {
+                          "0": {
+                            "0": {
+                              "9": {
+                                "7": {
+                                  "1": {
+                                    "3": {
+                                      "0": {
+                                        "9": {
+                                          "1": {
+                                            "7": {
+                                              "2": {
+                                                "3": {
+                                                  "0": {
+                                                    "9": {
+                                                      "7": {
+                                                        "1": {
+                                                          "2": {
+                                                            "0": {
+                                                              "3": {
+                                                                "9": {
+                                                                  "7": {
+                                                                    "4": {
+                                                                      "2": {
+                                                                        "8": {
+                                                                          "4": {
+                                                                            "7": {
+                                                                              "9": {
+                                                                                "3": {
+                                                                                  "5": {
+                                                                                    "4": {
+                                                                                      "_": {
+                                                                                        "j": {
+                                                                                          "u": {
+                                                                                            "5": {
+                                                                                              "t": {
+                                                                                                "_": {
+                                                                                                  "m": {
+                                                                                                    "3": {
+                                                                                                      "5": {
+                                                                                                        "5": {
+                                                                                                          "1": {
+                                                                                                            "n": {
+                                                                                                              "9": {
+                                                                                                                "_": {
+                                                                                                                  "w": {
+                                                                                                                    "1": {
+                                                                                                                      "t": {
+                                                                                                                        "h": {
+                                                                                                                          "_": {
+                                                                                                                            "y": {
+                                                                                                                              "a": {
+                                                                                                                                "_": {
+                                                                                                                                  "b": {
+                                                                                                                                    "0": {
+                                                                                                                                      "i": {
+                                                                                                                                        "i": {
+                                                                                                                                          "}": {
+                                                                                                                                            "@": "Full flag developer, Scriptlicker"
+                                                                                                                                          }
+                                                                                                                                        }
+                                                                                                                                      }
+                                                                                                                                    }
+                                                                                                                                  }
+                                                                                                                                }
+                                                                                                                              }
+                                                                                                                            }
+                                                                                                                          }
+                                                                                                                        }
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "Z": {
+    "a": {
+      "c": {
+        "h": {
+          "a": {
+            "r": {
+              "y": {
+                "@": "Full low level stack"
+              },
+              "i": {
+                "a": {
+                  "h": {
+                    "@": "C# \/ Xamarin developer, Android developer, AWS coordinator"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "k": {
+          "a": {
+            "r": {
+              "y": {
+                "@": "Scratch developer"
+              }
+            }
+          }
+        }
+      },
+      "y": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "Discord bot developer, C# \/ Xamarin developer, Discord bot developer, C# \/ Xamarin developer"
+            }
+          },
+          "@": "Discord bot developer, SQL dev, Discord bot developer, 8086 Assembler dev"
+        },
+        "n": {
+          "@": "Discord bot developer, Discord bot developer, Java \/ Java EE developer",
+          "e": {
+            "@": "Full web stack, Brainf*ck developer, Swift developer, AWS coordinator"
+          }
+        }
+      },
+      "n": {
+        "e": {
+          "@": "Android developer"
+        },
+        "d": {
+          "e": {
+            "r": {
+              "@": "Full low level stack"
+            }
+          }
+        }
+      },
+      "i": {
+        "d": {
+          "e": {
+            "n": {
+              "@": "C# \/ Xamarin developer, Scratch developer"
+            }
+          },
+          "@": "SQL dev"
+        },
+        "n": {
+          "@": "AWS coordinator, SQL dev"
+        },
+        "r": {
+          "e": {
+            "@": "AWS coordinator, Brainf*ck developer"
+          }
+        }
+      },
+      "v": {
+        "i": {
+          "e": {
+            "r": {
+              "@": "8086 Assembler dev, Swift developer, 8086 Assembler dev"
+            }
+          }
+        }
+      },
+      "h": {
+        "i": {
+          "r": {
+            "@": "Full low level stack, 8086 Assembler dev"
+          }
+        }
+      }
+    },
+    "i": {
+      "o": {
+        "n": {
+          "@": "Java \/ Java EE developer, 8086 Assembler dev, Brainf*ck developer, Full web stack"
+        }
+      }
+    },
+    "e": {
+      "k": {
+        "e": {
+          "@": "Brainf*ck developer, 8086 Assembler dev"
+        }
+      },
+      "c": {
+        "h": {
+          "a": {
+            "r": {
+              "i": {
+                "a": {
+                  "h": {
+                    "@": "8086 Assembler dev, Java \/ Java EE developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "y": {
+      "a": {
+        "i": {
+          "r": {
+            "e": {
+              "@": "Snekk \"developer\""
+            }
+          }
+        }
+      }
+    }
+  },
+  "V": {
+    "i": {
+      "n": {
+        "c": {
+          "e": {
+            "n": {
+              "t": {
+                "@": "Brainf*ck developer, Android developer, Full low level stack"
+              },
+              "z": {
+                "o": {
+                  "@": "8086 Assembler dev, Android developer, Android developer, AWS coordinator"
+                }
+              }
+            }
+          }
+        }
+      },
+      "c": {
+        "t": {
+          "o": {
+            "r": {
+              "@": "Scratch developer, Java \/ Java EE developer"
+            }
+          }
+        },
+        "e": {
+          "n": {
+            "t": {
+              "e": {
+                "@": "Full web stack, Snekk \"developer\", Discord bot developer, Swift developer"
+              }
+            }
+          }
+        }
+      },
+      "h": {
+        "a": {
+          "a": {
+            "n": {
+              "@": "Discord bot developer, AWS coordinator"
+            }
+          }
+        }
+      },
+      "v": {
+        "a": {
+          "a": {
+            "n": {
+              "@": "8086 Assembler dev"
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "l": {
+        "e": {
+          "n": {
+            "t": {
+              "i": {
+                "n": {
+                  "o": {
+                    "@": "C# \/ Xamarin developer, SQL dev, Full web stack, Swift developer"
+                  },
+                  "@": "C# \/ Xamarin developer, 8086 Assembler dev"
+                }
+              }
+            }
+          }
+        }
+      },
+      "n": {
+        "c": {
+          "e": {
+            "@": "C# \/ Xamarin developer, Brainf*ck developer"
+          }
+        },
+        "@": "Full web stack, AWS coordinator, Full low level stack"
+      },
+      "u": {
+        "g": {
+          "h": {
+            "n": {
+              "@": "Java \/ Java EE developer"
+            }
+          }
+        }
+      }
+    }
+  },
+  "F": {
+    "i": {
+      "n": {
+        "n": {
+          "@": "Full low level stack, Full low level stack, Swift developer, Java \/ Java EE developer",
+          "e": {
+            "g": {
+              "a": {
+                "n": {
+                  "@": "Scratch developer, Java \/ Java EE developer, Java \/ Java EE developer"
+                }
+              }
+            }
+          },
+          "l": {
+            "e": {
+              "y": {
+                "@": "AWS coordinator"
+              }
+            }
+          }
+        },
+        "l": {
+          "e": {
+            "y": {
+              "@": "Discord bot developer"
+            }
+          }
+        }
+      },
+      "s": {
+        "h": {
+          "e": {
+            "r": {
+              "@": "Scratch developer, Snekk \"developer\", Discord bot developer"
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "l": {
+        "i": {
+          "x": {
+            "@": "Discord bot developer, Full web stack, AWS coordinator"
+          },
+          "p": {
+            "e": {
+              "@": "Java \/ Java EE developer, Android developer, Snekk \"developer\""
+            }
+          }
+        }
+      },
+      "r": {
+        "n": {
+          "a": {
+            "n": {
+              "d": {
+                "o": {
+                  "@": "Scratch developer, Scratch developer"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "r": {
+      "a": {
+        "n": {
+          "c": {
+            "i": {
+              "s": {
+                "c": {
+                  "o": {
+                    "@": "SQL dev"
+                  }
+                },
+                "@": "Swift developer, Full web stack"
+              }
+            },
+            "o": {
+              "@": "C# \/ Xamarin developer, AWS coordinator, Android developer, Brainf*ck developer"
+            }
+          },
+          "k": {
+            "@": "AWS coordinator",
+            "l": {
+              "i": {
+                "n": {
+                  "@": "Snekk \"developer\", Full web stack"
+                }
+              }
+            },
+            "i": {
+              "e": {
+                "@": "8086 Assembler dev, Java \/ Java EE developer, Snekk \"developer\""
+              }
+            }
+          }
+        }
+      },
+      "e": {
+        "d": {
+          "e": {
+            "r": {
+              "i": {
+                "c": {
+                  "k": {
+                    "@": "Swift developer, Android developer, Brainf*ck developer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "b": {
+        "i": {
+          "a": {
+            "n": {
+              "@": "Full low level stack, Full web stack"
+            }
+          }
+        }
+      }
+    },
+    "o": {
+      "r": {
+        "r": {
+          "e": {
+            "s": {
+              "t": {
+                "@": "Brainf*ck developer"
+              }
+            }
+          }
+        },
+        "d": {
+          "@": "8086 Assembler dev, SQL dev, Discord bot developer"
+        }
+      },
+      "x": {
+        "@": "Scratch developer, Snekk \"developer\", Full web stack"
+      },
+      "s": {
+        "t": {
+          "e": {
+            "r": {
+              "@": "AWS coordinator, Discord bot developer, Discord bot developer"
+            }
+          }
+        }
+      }
+    },
+    "l": {
+      "e": {
+        "t": {
+          "c": {
+            "h": {
+              "e": {
+                "r": {
+                  "@": "Full low level stack, Android developer, Swift developer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "y": {
+        "n": {
+          "n": {
+            "@": "Full low level stack, SQL dev, Brainf*ck developer, Java \/ Java EE developer"
+          }
+        }
+      }
+    }
+  },
+  "Q": {
+    "u": {
+      "i": {
+        "n": {
+          "n": {
+            "@": "Android developer, C# \/ Xamarin developer, SQL dev, Scratch developer"
+          },
+          "t": {
+            "o": {
+              "n": {
+                "@": "SQL dev, Swift developer"
+              }
+            }
+          },
+          "c": {
+            "y": {
+              "@": "8086 Assembler dev, Snekk \"developer\", Discord bot developer"
+            }
+          }
+        }
+      },
+      "e": {
+        "n": {
+          "t": {
+            "i": {
+              "n": {
+                "@": "SQL dev, Scratch developer"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "U": {
+    "r": {
+      "i": {
+        "e": {
+          "l": {
+            "@": "C# \/ Xamarin developer, Java \/ Java EE developer, Snekk \"developer\", Android developer"
+          }
+        },
+        "a": {
+          "h": {
+            "@": "SQL dev, Discord bot developer"
+          }
+        }
+      }
+    },
+    "l": {
+      "i": {
+        "s": {
+          "e": {
+            "s": {
+              "@": "Scratch developer, Scratch developer, AWS coordinator"
+            }
+          }
+        }
+      }
+    }
+  }
+}

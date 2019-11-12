@@ -2,9 +2,8 @@
 
 $name = null;
 
-if (isset($_GET["n"])) {
-    $name = $_GET["n"];
-}
+if (count($_GET) > 0)
+    $name = key($_GET);
 
 ?>
     <!DOCTYPE html>
@@ -678,7 +677,9 @@ if (isset($_GET["n"])) {
                 return [false, null, $i];
             }
         }
-        return [true, $temp, $i];
+        if (isset($temp->{"@"}))
+            return [true, $temp->{"@"}, $i];
+        return [false, null, $i];
     }
 
     ?>
