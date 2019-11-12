@@ -668,7 +668,7 @@ if (count($_GET) > 0)
         echo "<p>" . htmlspecialchars($name) . "'s developer page</p>";
         echo "<p>" . htmlspecialchars($result[1]) . "</p>";
     } else {
-        echo "<p>The developer page for \"" . htmlspecialchars($name) . "\" were not found.</p>";
+        echo "<p>The developer pages for \"" . htmlspecialchars($name) . "\" were not found.</p>";
     }
 
     function lookup($name, $database)
