@@ -659,12 +659,17 @@ if (count($_GET) > 0)
         </script>
     </head>
     <body column>
+    <p style="font-size: 6vh">Developer pages</p>
     <?php
 
     $result = lookup($name, json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "info/database.json")));
 
-    echo "<p>About " . htmlspecialchars($name) . "</p>";
-    echo "<p>" . ($result[0] ? htmlspecialchars($result[1]) : "Not found!") . "</p>";
+    if ($result[0]) {
+        echo "<p>" . htmlspecialchars($name) . "'s developer page</p>";
+        echo "<p>" . htmlspecialchars($result[1]) . "</p>";
+    } else {
+        echo "<p>The developer page for \"" . htmlspecialchars($name) . "\" were not found.</p>";
+    }
 
     function lookup($name, $database)
     {
@@ -683,6 +688,7 @@ if (count($_GET) > 0)
     }
 
     ?>
+    <a href="../../">Back home</a>
     </body>
     </html>
 <?php
