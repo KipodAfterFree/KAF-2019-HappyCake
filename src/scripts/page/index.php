@@ -27,14 +27,6 @@ if (isset($_GET["n"])) {
         <meta name="apple-mobile-web-app-capable" content="yes"/>
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
         <meta name="apple-mobile-web-app-title" content="Happy Cake!"/>
-        <link rel="apple-touch-icon" href="images/icons/app/icon_apple.png"/>
-        <link rel="icon" href="images/icons/app/icon.png"/>
-        <link rel="manifest" href="resources/manifest.json"/>
-        <link rel="stylesheet" href="stylesheets/app.css"/>
-        <link rel="stylesheet" href="stylesheets/theme.css"/>
-        <link rel="stylesheet" href="stylesheets/template.css"/>
-        <script type="text/javascript" src="scripts/frontend/app.js"></script>
-        <script type="text/javascript" src="scripts/frontend/base/api.js"></script>
         <title><?php
             if ($name !== null)
                 echo "@" . htmlspecialchars($name);
@@ -667,13 +659,13 @@ if (isset($_GET["n"])) {
 
         </script>
     </head>
-    <body onload="prepare(load)" column>
+    <body column>
     <?php
 
     $result = lookup($name, json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . "info/database.json")));
 
     echo "<p>About " . htmlspecialchars($name) . "</p>";
-    echo "<p>" . htmlspecialchars($result[1]) . "</p>";
+    echo "<p>" . ($result[0] ? htmlspecialchars($result[1]) : "Not found!") . "</p>";
 
     function lookup($name, $database)
     {
@@ -693,7 +685,7 @@ if (isset($_GET["n"])) {
     </body>
     </html>
 <?php
-if ($info === null) {
+if ($result[0] === false) {
     echo "<!-- failed after " . $result[2] . " rounds-->";
 } else {
     echo "<!-- OK -->";
